@@ -25,7 +25,7 @@ I am looking for a PhD position starting in Fall 2025.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/300x180.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/vbench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [VBench++: Trustworthy and Versatile Benchmark Suite for Video
@@ -38,7 +38,7 @@ Submitted to some journal
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/300x180.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/mirror.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Farther Than Mirror: Explore Pattern-Compensated Depth of Mirror with Temporal Changes for Video Mirror Detection](https://openreview.net/forum?id=EG1HZzt5H0&noteId=MkFJYl0myk)
@@ -51,7 +51,7 @@ Submitted to some conference
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/300x180.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/hilo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HiLo: Hierarchical Locally Supervised Learning](https://github.com/Zeudfish/HPFF)
@@ -63,7 +63,7 @@ European Conference on Computer Vision(ECCV)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024 Oral</div><img src='images/300x180.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024 Oral</div><img src='images/man.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Momentum Auxiliary Network for Supervised Local Learning](https://github.com/JunhaoSu0/MAN)
@@ -75,7 +75,7 @@ European Conference on Computer Vision(ECCV)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/300x180.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/edc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Every Dataset Counts: Scaling up Monocular 3D Object Detection with Joint Datasets Training](https://arxiv.org/abs/2310.00920)
@@ -87,7 +87,7 @@ International Conference on Intelligent Robots and Systems(IROS)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2023</div><img src='images/300x180.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2023</div><img src='images/bev.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [From Bird’s-Eye to Street View: Crafting Diverse and Condition-Aligned Images with Latent Diffusion Model](https://ieeexplore.ieee.org/document/10611235)
@@ -99,7 +99,7 @@ International Conference on Robotics and Automation(ICRA)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/300x180.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/caric.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [3DCaricShop: A Dataset and A Baseline Method for Single-view 3D Caricature Face Reconstruction](https://qiuyuda.github.io/3DCaricShop/)
