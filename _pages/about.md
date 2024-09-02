@@ -32,7 +32,7 @@ I am looking for PhD position starting in Fall 2025.
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-Conference on Computer Vision and Pattern Recognition
+Conference on Computer Vision and Pattern Recognition(CVPR)
 
 </div>
 </div>
@@ -44,7 +44,7 @@ Conference on Computer Vision and Pattern Recognition
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-Conference on Computer Vision and Pattern Recognition
+Conference on Computer Vision and Pattern Recognition(CVPR)
 
 </div>
 </div>
