@@ -31,25 +31,86 @@ I am looking for a PhD position starting in Fall 2025.
 [VBench++: Trustworthy and Versatile Benchmark Suite for Video
 Generative Models](https://github.com/Vchitect/VBench/tree/master)
 
-Ziqi Huang\*, Fan Zhang\*, **Xiaojie Xu**, Yinan He, Jiashuo
-Yu, et al., Yingcong Chen, Ziwei Liu
+Ziqi Huang\*, Fan Zhang\*, **Xiaojie Xu**, Yinan He, Jiashuo Yu, et al., Yingcong Chen, Ziwei Liu
 
 Submitted to some journal
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/300x180.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/300x180.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Farther Than Mirror: Explore Pattern-Compensated Depth of Mirror with Temporal Changes for Video Mirror Detection](https://openreview.net/forum?id=EG1HZzt5H0&noteId=MkFJYl0myk)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Zhaohu Xing, Lihao Liu, Tian Ye, Sixiang Chen, Yijun Yang, Guang Liu, **Xiaojie Xu**, Lei Zhu
+
+Submitted to some conference
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/300x180.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[HiLo: Hierarchical Locally Supervised Learning](https://github.com/Zeudfish/HPFF)
+
+Junhao Su, **Xiaojie Xu**, Chenghao He, Feiyu Zhu, Dongzhi Guan, Chenyang Si
+
+European Conference on Computer Vision(ECCV)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024 Oral</div><img src='images/300x180.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Momentum Auxiliary Network for Supervised Local Learning](https://github.com/JunhaoSu0/MAN)
+
+Junhao Su, Changpeng Cai, Feiyu Zhu, Chenghao He, **Xiaojie Xu**, Dongzhi Guan, Chenyang Si
+
+European Conference on Computer Vision(ECCV)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/300x180.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Every Dataset Counts: Scaling up Monocular 3D Object Detection with Joint Datasets Training](https://arxiv.org/abs/2310.00920)
+
+Fulong Ma, Xiaoyang Yan, Guoyang Zhao, **Xiaojie Xu**, Yuxuan Liu, Ming Liu
+
+International Conference on Intelligent Robots and Systems(IROS)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2023</div><img src='images/300x180.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[From Bird’s-Eye to Street View: Crafting Diverse and Condition-Aligned Images with Latent Diffusion Model](https://ieeexplore.ieee.org/document/10611235)
+
+**Xiaojie Xu**, Tianshuo Xu, Fulong Ma and Yingcong Chen
+
+International Conference on Robotics and Automation(ICRA)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/300x180.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[3DCaricShop: A Dataset and A Baseline Method for Single-view 3D Caricature Face Reconstruction](https://qiuyuda.github.io/3DCaricShop/)
+
+Yuda Qiu, **Xiaojie Xu**, Lingteng Qiu, Yan Pan, Yushuang Wu, Weikai Chen, and Xiaoguang Han
 
 Conference on Computer Vision and Pattern Recognition(CVPR)
 
 </div>
 </div>
+
 
 # 📖 Education
 - *Bachelor of Engineering(B.Eng.) in Automation*, [University of Science and Technology of China(USTC)](https://en.ustc.edu.cn/index.htm)
