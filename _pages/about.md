@@ -25,7 +25,7 @@ I am looking for PhD position starting in Fall 2025.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/300x180.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -37,8 +37,8 @@ I am looking for PhD position starting in Fall 2025.
 
 
 # 📖 Education
-- *Bachelor of Engineering(B.Eng.) in Automation*, University of Science and Technology of China(USTC). 
-- *Master of Philosophy(M.Phil.) in Artificial Intelligence*, The Hong Kong University of Science and Technology, Guangzhou(HKUST-GZ). 
+- *Bachelor of Engineering(B.Eng.) in Automation*, University of Science and Technology of China(USTC)
+- *Master of Philosophy(M.Phil.) in Artificial Intelligence*, The Hong Kong University of Science and Technology, Guangzhou(HKUST-GZ)
 
 # 💻 Research Experiences
 - *2023.10 – 2024.05*, Research Intern(AIGC) at Shanghai AI Lab and Nanyang Technological University, with Dr. Chenyang Si and Prof. Ziwei Liu
