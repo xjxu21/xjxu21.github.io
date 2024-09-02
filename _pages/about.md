@@ -50,14 +50,14 @@ Conference on Computer Vision and Pattern Recognition(CVPR)
 </div>
 
 # 📖 Education
-- *Bachelor of Engineering(B.Eng.) in Automation*, University of Science and Technology of China(USTC)
-- *Master of Philosophy(M.Phil.) in Artificial Intelligence*, The Hong Kong University of Science and Technology, Guangzhou(HKUST-GZ)
+- *Bachelor of Engineering(B.Eng.) in Automation*, [University of Science and Technology of China(USTC)](https://en.ustc.edu.cn/index.htm)
+- *Master of Philosophy(M.Phil.) in Artificial Intelligence*, [The Hong Kong University of Science and Technology, Guangzhou(HKUST-GZ)]((https://www.hkust-gz.edu.cn/about/))
 
 # 💻 Research Experiences
-- *2023.10 – 2024.05*, Research Intern(AIGC) at Shanghai AI Lab and Nanyang Technological University, with Dr. Chenyang Si and Prof. Ziwei Liu
-- *2022.06 – 2023.03*, Research Intern(Digital Human) at Tencent AI Lab, with Dr. Di Kang and Prof. Linchao Bao
-- *2021.06 – 2021.12*, Research Assistant(Autonomous Driving) at Tsinghua University, with Prof. Hang Zhao
-- *2020.09 – 2021.05*, Research Assistant(3D Computer Vision) at The Chinese University of Hong Kong, Shenzhen, with Prof. Xiaoguang Han
+- *2023.10 – 2024.05*, Research Intern(AIGC) at [Shanghai AI Lab](https://www.shlab.org.cn/) and [Nanyang Technological University](https://www.ntu.edu.sg/), with [Dr. Chenyang Si](https://scholar.google.com.sg/citations?user=XdahAuoAAAAJ&hl=en) and [Prof. Ziwei Liu](https://scholar.google.com.hk/citations?user=lc45xlcAAAAJ&hl=en)
+- *2022.06 – 2023.03*, Research Intern(Digital Human) at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index), with [Dr. Di Kang](https://scholar.google.com.hk/citations?user=2ztThPwAAAAJ) and [Prof. Linchao Bao](https://scholar.google.com/citations?user=xQZMbkUAAAAJ&hl=en)
+- *2021.06 – 2021.12*, Research Assistant(Autonomous Driving) at [Tsinghua University](https://iiis.tsinghua.edu.cn/en/), with [Prof. Hang Zhao](https://scholar.google.com/citations?user=DmahiOYAAAAJ&hl=en)
+- *2020.09 – 2021.05*, Research Assistant(3D Computer Vision) at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), with [Prof. Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=en)
 
 # 🎖 Honors and Awards
 - Postgraduate Scholarship Award at HKUST
