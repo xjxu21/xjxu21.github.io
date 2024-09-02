@@ -32,9 +32,22 @@ I am looking for PhD position starting in Fall 2025.
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
+Conference on Computer Vision and Pattern Recognition
+
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/300x180.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+
+Conference on Computer Vision and Pattern Recognition
+
+</div>
+</div>
 
 # 📖 Education
 - *Bachelor of Engineering(B.Eng.) in Automation*, University of Science and Technology of China(USTC)
