@@ -21,7 +21,7 @@ Hi, this is Xiaojie Xu(徐啸捷). I am currently an M.Phil. student in Artifici
 
 My research interests include Machine Learning and Computer Vision, especially in Generative Models, Multimodal Learning and 3D Vision.
 
-I am looking for PhD position starting in Fall 2025.
+I am looking for a PhD position starting in Fall 2025.
 
 # 📝 Publications 
 
