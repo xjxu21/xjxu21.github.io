@@ -40,9 +40,10 @@ I am looking for PhD position starting in Fall 2025.
 - *Bachelor of Engineering(B.Eng.) in Automation*, University of Science and Technology of China(USTC). 
 - *Master of Philosophy(M.Phil.) in Artificial Intelligence*, The Hong Kong University of Science and Technology, Guangzhou(HKUST-GZ). 
 
-# 💻 Working Experiences
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Research Experiences
+- *2023.10 – 2024.05*, Research Intern(AIGC) at Shanghai AI Lab & Nanyang Technological University, with Chenyang Si, Ziqi Huang and Prof. Ziwei Liu
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Postgraduate Scholarship Award at HKUST
+- Outstanding Undergraduate Student Scholarship Award at USTC
+- Chinese Physics Olympiad(CPhO). First prize in Jiangxi Province
