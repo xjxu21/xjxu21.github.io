@@ -54,9 +54,9 @@ Submitted to some conference
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/hilo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[HiLo: Hierarchical Locally Supervised Learning](https://github.com/Zeudfish/HPFF)
+[HPFF: Hierarchical Locally Supervised Learning with Patch Feature Fusion](https://github.com/Zeudfish/HPFF)
 
-Junhao Su, **Xiaojie Xu**, Chenghao He, Feiyu Zhu, Dongzhi Guan, Chenyang Si
+Junhao Su\*, Chenghao He\*, Feiyu Zhu\*, **Xiaojie Xu\***, Dongzhi Guan, Chenyang Si
 
 European Conference on Computer Vision(ECCV)
 
