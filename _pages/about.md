@@ -31,7 +31,7 @@ I am looking for a PhD position starting in Fall 2025.
 [VBench++: Trustworthy and Versatile Benchmark Suite for Video
 Generative Models](https://github.com/Vchitect/VBench/tree/master)
 
-Ziqi Huang*, Fan Zhang*, **Xiaojie Xu**, Yinan He, Jiashuo
+Ziqi Huang\*, Fan Zhang\*, **Xiaojie Xu**, Yinan He, Jiashuo
 Yu, et al., Yingcong Chen, Ziwei Liu
 
 Submitted to some journal
