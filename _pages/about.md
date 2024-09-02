@@ -29,7 +29,7 @@ I am looking for a PhD position starting in Fall 2025.
 <div class='paper-box-text' markdown="1">
 
 [VBench++: Trustworthy and Versatile Benchmark Suite for Video
-Generative Models]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://github.com/Vchitect/VBench/tree/master))
+Generative Models](https://github.com/Vchitect/VBench/tree/master)
 
 Ziqi Huang*, Fan Zhang*, **Xiaojie Xu**, Yinan He, Jiashuo
 Yu, et al., Yingcong Chen, Ziwei Liu
