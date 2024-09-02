@@ -101,7 +101,7 @@ International Conference on Robotics and Automation(ICRA)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/cari.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/caric.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [3DCaricShop: A Dataset and A Baseline Method for Single-view 3D Caricature Face Reconstruction](https://qiuyuda.github.io/3DCaricShop/)
