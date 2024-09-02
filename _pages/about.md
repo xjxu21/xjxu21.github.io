@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, this is Xiaojie Xu(徐啸捷). I am currently an M.Phil. student in Artificial Intelligence at [The Hong Kong University of Science and Technology, Guangzhou(HKUST-GZ)](https://www.hkust-gz.edu.cn/about/) advised by [Prof. Ying-Cong Chen](https://www.yingcong.me/). Prior, I received a Bachelor's degree in Automation from [University of Science and Technology of China(USTC)](https://en.ustc.edu.cn/index.htm), advised by [Prof. Ligang Liu](http://staff.ustc.edu.cn/~lgliu/).
 
-My research interests include Machine Learning and Computer vision, especially in Generative Models, Multimodal Learning and 3D Vision.
+My research interests include Machine Learning and Computer Vision, especially in Generative Models, Multimodal Learning and 3D Vision.
 
 I am looking for PhD position starting in Fall 2025.
 
