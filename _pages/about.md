@@ -41,7 +41,7 @@ I am looking for PhD position starting in Fall 2025.
 - *Master of Philosophy(M.Phil.) in Artificial Intelligence*, The Hong Kong University of Science and Technology, Guangzhou(HKUST-GZ). 
 
 # 💻 Research Experiences
-- *2023.10 – 2024.05*, Research Intern(AIGC) at Shanghai AI Lab & Nanyang Technological University, with Chenyang Si, Ziqi Huang and Prof. Ziwei Liu
+- *2023.10 – 2024.05*, Research Intern(AIGC) at Shanghai AI Lab and Nanyang Technological University, with Chenyang Si and Prof. Ziwei Liu
 
 # 🎖 Honors and Awards
 - Postgraduate Scholarship Award at HKUST
