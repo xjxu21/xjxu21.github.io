@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, this is Xiaojie Xu(徐啸捷). I am currently an M.Phil. student in Artificial Intelligence at [The Hong Kong University of Science and Technology, Guangzhou(HKUST-GZ)](https://www.hkust-gz.edu.cn/about/) advised by [Prof. Ying-Cong Chen](https://www.yingcong.me/). Prior, I received a Bachelor's degree in Automation from [University of Science and Technology of China(USTC)](https://en.ustc.edu.cn/index.htm), advised by [Prof. Ligang Liu](http://staff.ustc.edu.cn/~lgliu/). During my M.Phil.'s study, I worked with the AIGC group at [Shanghai AI Lab](https://www.shlab.org.cn/) and [Nanyang Technological University](https://www.ntu.edu.sg/) led by [Prof. Ziwei Liu](https://scholar.google.com.hk/citations?user=lc45xlcAAAAJ&hl=en) and the Digital Human group at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index) led by [Prof. Linchao Bao](https://scholar.google.com/citations?user=xQZMbkUAAAAJ&hl=en).
+Hi, this is Xiaojie Xu(徐啸捷). I am currently an M.Phil. student in Artificial Intelligence at [The Hong Kong University of Science and Technology, Guangzhou(HKUST-GZ)](https://www.hkust-gz.edu.cn/about/) advised by [Prof. Ying-Cong Chen](https://www.yingcong.me/). Prior, I received a Bachelor's degree in Automation from [University of Science and Technology of China(USTC)](https://en.ustc.edu.cn/index.htm), advised by [Prof. Ligang Liu](http://staff.ustc.edu.cn/~lgliu/). 
 
-My research interests include Machine Learning and Computer Vision, especially in Generative Models, Multimodal Learning and 3D Vision.
+My research interests include Machine Learning and Computer Vision, especially in Generative Models, Multimodal Learning and 3D Vision. During my M.Phil.'s study, I worked with the AIGC group at [Shanghai AI Lab](https://www.shlab.org.cn/) and [Nanyang Technological University](https://www.ntu.edu.sg/) led by [Prof. Ziwei Liu](https://scholar.google.com.hk/citations?user=lc45xlcAAAAJ&hl=en) and the Digital Human group at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index) led by [Prof. Linchao Bao](https://scholar.google.com/citations?user=xQZMbkUAAAAJ&hl=en).
 
 I am looking for a PhD position starting in Fall 2025.
 
