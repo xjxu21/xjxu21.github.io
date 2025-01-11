@@ -25,7 +25,7 @@ I am looking for a PhD position starting in Fall 2025.
 
 # 📝 Selected Publications 
 
-\* Joint first authors
+\* indicates equal contributions
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/posta.png' alt="sym" width="100%"></div></div>
