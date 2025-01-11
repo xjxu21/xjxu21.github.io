@@ -30,24 +30,11 @@ I am looking for a PhD position starting in Fall 2025.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/vbench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[VBench++: Trustworthy and Versatile Benchmark Suite for Video
-Generative Models](https://github.com/Vchitect/VBench/tree/master)
+[VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models]([https://github.com/Vchitect/VBench/tree/master](https://arxiv.org/abs/2411.13503))
 
-Ziqi Huang\*, Fan Zhang\*, **Xiaojie Xu**, Yinan He, Jiashuo Yu, et al., Yingcong Chen, Ziwei Liu
+Ziqi Huang\*, Fan Zhang\*, <u>**Xiaojie Xu**<\u>, Yinan He, Jiashuo Yu, Ziyue Dong, Qianli Ma, Nattapol Chanpaisit, Chenyang Si, Yuming Jiang, Yaohui Wang, Xinyuan Chen, Ying-Cong Chen, Limin Wang, Dahua Lin, Yu Qiao, Ziwei Liu
 
 Submitted to some journal
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/mirror.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Farther Than Mirror: Explore Pattern-Compensated Depth of Mirror with Temporal Changes for Video Mirror Detection](https://openreview.net/forum?id=EG1HZzt5H0&noteId=MkFJYl0myk)
-
-Zhaohu Xing, Lihao Liu, Tian Ye, Sixiang Chen, Yijun Yang, Guang Liu, **Xiaojie Xu**, Lei Zhu
-
-Submitted to some conference
 
 </div>
 </div>
