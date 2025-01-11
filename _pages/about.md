@@ -59,7 +59,7 @@ Submitted to some journal
 
 [HPFF: Hierarchical Locally Supervised Learning with Patch Feature Fusion](https://arxiv.org/abs/2407.05638)
 
-Junhao Su\*, Chenghao He\*, Feiyu Zhu\*, **<u>Xiaojie Xu*</u>**, Dongzhi Guan, Chenyang Si
+Junhao Su\*, Chenghao He\*, Feiyu Zhu\*, **<u>Xiaojie Xu</u>****\***, Dongzhi Guan, Chenyang Si
 
 European Conference on Computer Vision(ECCV)
 
