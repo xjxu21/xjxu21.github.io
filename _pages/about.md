@@ -32,7 +32,7 @@ I am looking for a PhD position starting in Fall 2025.
 
 [VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models]([https://github.com/Vchitect/VBench/tree/master](https://arxiv.org/abs/2411.13503))
 
-Ziqi Huang\*, Fan Zhang\*, <u>**Xiaojie Xu**<\u>, Yinan He, Jiashuo Yu, Ziyue Dong, Qianli Ma, Nattapol Chanpaisit, Chenyang Si, Yuming Jiang, Yaohui Wang, Xinyuan Chen, Ying-Cong Chen, Limin Wang, Dahua Lin, Yu Qiao, Ziwei Liu
+Ziqi Huang\*, Fan Zhang\*, **<u>Xiaojie Xu</u>**, Yinan He, Jiashuo Yu, Ziyue Dong, Qianli Ma, Nattapol Chanpaisit, Chenyang Si, Yuming Jiang, Yaohui Wang, Xinyuan Chen, Ying-Cong Chen, Limin Wang, Dahua Lin, Yu Qiao, Ziwei Liu
 
 Submitted to some journal
 
