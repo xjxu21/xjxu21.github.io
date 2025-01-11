@@ -93,5 +93,5 @@ Conference on Computer Vision and Pattern Recognition(CVPR)
 
 # 🎖 Honors and Awards
 - Postgraduate Scholarship Award at HKUST
-- Outstanding Undergraduate Student Scholarship Award at USTC
+- Outstanding Undergraduate Scholarship Award at USTC
 - Chinese Physics Olympiad(CPhO). First prize in Jiangxi Province
