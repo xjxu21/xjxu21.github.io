@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, this is Xiaojie Xu(徐啸捷). I am currently an M.Phil. student in Artificial Intelligence at [The Hong Kong University of Science and Technology, Guangzhou(HKUST-GZ)](https://www.hkust-gz.edu.cn/about/) advised by [Prof. Ying-Cong Chen](https://www.yingcong.me/). Prior, I received a Bachelor's degree in Automation from [University of Science and Technology of China(USTC)](https://en.ustc.edu.cn/index.htm), advised by [Prof. Ligang Liu](http://staff.ustc.edu.cn/~lgliu/). 
+Hi, this is Xiaojie Xu(徐啸捷). I am currently an M.Phil. student in Artificial Intelligence at [The Hong Kong University of Science and Technology, Guangzhou](https://www.hkust-gz.edu.cn/about/) advised by [Prof. Ying-Cong Chen](https://www.yingcong.me/). Prior, I received a Bachelor's degree in Automation from [University of Science and Technology of China](https://en.ustc.edu.cn/index.htm), advised by [Prof. Ligang Liu](http://staff.ustc.edu.cn/~lgliu/). 
 
 My research interests include Machine Learning and Computer Vision, especially in Generative Models, Multimodal Learning and 3D Vision. During my M.Phil.'s study, I worked with the AIGC group at [Nanyang Technological University](https://www.ntu.edu.sg/) led by [Prof. Ziwei Liu](https://scholar.google.com.hk/citations?user=lc45xlcAAAAJ&hl=en) and the Digital Human group at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index) led by [Prof. Linchao Bao](https://scholar.google.com/citations?user=xQZMbkUAAAAJ&hl=en).
 
@@ -103,8 +103,8 @@ Conference on Computer Vision and Pattern Recognition(CVPR)
 
 
 # 📖 Education
-- *Bachelor of Engineering(B.Eng.) in Automation*, [University of Science and Technology of China(USTC)](https://en.ustc.edu.cn/index.htm)
-- *Master of Philosophy(M.Phil.) in Artificial Intelligence*, [The Hong Kong University of Science and Technology, Guangzhou(HKUST-GZ)](https://www.hkust-gz.edu.cn/about/)
+- *Bachelor of Engineering(B.Eng.) in Automation*, [University of Science and Technology of China](https://en.ustc.edu.cn/index.htm)
+- *Master of Philosophy(M.Phil.) in Artificial Intelligence*, [The Hong Kong University of Science and Technology, Guangzhou](https://www.hkust-gz.edu.cn/about/)
 
 # 💻 Research Experiences
 - *2023.10 – 2024.05*, Research Intern(AIGC) at [Shanghai AI Lab](https://www.shlab.org.cn/) and [Nanyang Technological University](https://www.ntu.edu.sg/), with [Dr. Chenyang Si](https://scholar.google.com.sg/citations?user=XdahAuoAAAAJ&hl=en) and [Prof. Ziwei Liu](https://scholar.google.com.hk/citations?user=lc45xlcAAAAJ&hl=en)
