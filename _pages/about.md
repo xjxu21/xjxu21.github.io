@@ -87,7 +87,7 @@ Conference on Computer Vision and Pattern Recognition(CVPR)
 
 # 💻 Experiences
 - *2023.10 – 2024.05*, Research Intern(AIGC) at [Nanyang Technological University](https://www.ntu.edu.sg/), with [Dr. Chenyang Si](https://scholar.google.com.sg/citations?user=XdahAuoAAAAJ&hl=en) and [Prof. Ziwei Liu](https://scholar.google.com.hk/citations?user=lc45xlcAAAAJ&hl=en)
-- *2022.06 – 2023.03*, Research Intern(Digital Human) at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index), with [Dr. Di Kang](https://scholar.google.com.hk/citations?user=2ztThPwAAAAJ) and [Prof. Linchao Bao](https://scholar.google.com/citations?user=xQZMbkUAAAAJ&hl=en)
+- *2022.06 – 2023.03*, Research Intern(Digital Human) at [Tencent AI Lab](https://ailab.tencent.com/ailab/en/index), with [Dr. Di Kang](https://scholar.google.com.hk/citations?user=2ztThPwAAAAJ) and [Prof. Linchao Bao](https://scholar.google.com/citations?user=xQZMbkUAAAAJ&hl=en)
 - *2021.06 – 2021.12*, Research Assistant(Autonomous Driving) at [Tsinghua University](https://iiis.tsinghua.edu.cn/en/), with [Prof. Hang Zhao](https://scholar.google.com/citations?user=DmahiOYAAAAJ&hl=en)
 - *2020.09 – 2021.05*, Research Assistant(3D Computer Vision) at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), with [Prof. Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=en)
 
