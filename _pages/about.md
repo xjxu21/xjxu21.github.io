@@ -45,7 +45,7 @@ Submitted to some journal
 
 [HPFF: Hierarchical Locally Supervised Learning with Patch Feature Fusion](https://arxiv.org/abs/2407.05638)
 
-Junhao Su\*, Chenghao He\*, Feiyu Zhu\*, **Xiaojie Xu\***, Dongzhi Guan, Chenyang Si
+Junhao Su\*, Chenghao He\*, Feiyu Zhu\*, **<u>Xiaojie Xu\*</u>**, Dongzhi Guan, Chenyang Si
 
 European Conference on Computer Vision(ECCV)
 
@@ -57,7 +57,7 @@ European Conference on Computer Vision(ECCV)
 
 [Momentum Auxiliary Network for Supervised Local Learning](https://arxiv.org/abs/2407.05623)
 
-Junhao Su, Changpeng Cai, Feiyu Zhu, Chenghao He, **Xiaojie Xu**, Dongzhi Guan, Chenyang Si
+Junhao Su, Changpeng Cai, Feiyu Zhu, Chenghao He, **<u>Xiaojie Xu</u>**, Dongzhi Guan, Chenyang Si
 
 European Conference on Computer Vision(ECCV)
 
@@ -69,7 +69,7 @@ European Conference on Computer Vision(ECCV)
 
 [Every Dataset Counts: Scaling up Monocular 3D Object Detection with Joint Datasets Training](https://arxiv.org/abs/2310.00920)
 
-Fulong Ma, Xiaoyang Yan, Guoyang Zhao, **Xiaojie Xu**, Yuxuan Liu, Ming Liu
+Fulong Ma, Xiaoyang Yan, Guoyang Zhao, **<u>Xiaojie Xu</u>**, Yuxuan Liu, Ming Liu
 
 International Conference on Intelligent Robots and Systems(IROS)
 
@@ -81,7 +81,7 @@ International Conference on Intelligent Robots and Systems(IROS)
 
 [From Bird’s-Eye to Street View: Crafting Diverse and Condition-Aligned Images with Latent Diffusion Model](https://ieeexplore.ieee.org/document/10611235)
 
-**Xiaojie Xu**, Tianshuo Xu, Fulong Ma and Yingcong Chen
+**<u>Xiaojie Xu</u>**, Tianshuo Xu, Fulong Ma and Yingcong Chen
 
 International Conference on Robotics and Automation(ICRA)
 
@@ -93,7 +93,7 @@ International Conference on Robotics and Automation(ICRA)
 
 [3DCaricShop: A Dataset and A Baseline Method for Single-view 3D Caricature Face Reconstruction](https://qiuyuda.github.io/3DCaricShop/)
 
-Yuda Qiu, **Xiaojie Xu**, Lingteng Qiu, Yan Pan, Yushuang Wu, Weikai Chen, and Xiaoguang Han
+Yuda Qiu, **<u>Xiaojie Xu</u>**, Lingteng Qiu, Yan Pan, Yushuang Wu, Weikai Chen, and Xiaoguang Han
 
 Conference on Computer Vision and Pattern Recognition(CVPR)
 
