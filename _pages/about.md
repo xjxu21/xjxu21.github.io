@@ -54,6 +54,19 @@ Submitted to some journal
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/hilo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[HPFF: Hierarchical Locally Supervised Learning with Patch Feature Fusion](https://arxiv.org/abs/2407.05638)
+
+Junhao Su\*, Chenghao He\*, Feiyu Zhu\*, **<u>Xiaojie Xu</u>****\***, Dongzhi Guan, Chenyang Si
+
+European Conference on Computer Vision(ECCV)
+
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2023</div><img src='images/bev2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
