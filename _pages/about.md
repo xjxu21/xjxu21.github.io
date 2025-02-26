@@ -28,14 +28,14 @@ I am looking for a PhD position starting in Fall 2025.
 \* indicates equal contributions
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/posta.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/posta.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [POSTA: A Go-to Framework for Customized Artistic Poster Generation](https://xjxu21.github.io/)
 
 Haoyu Chen\*, **<u>Xiaojie Xu</u>****\***, Wenbo Li, Jingjing Ren, Tian Ye, Songhua Liu, Ying-Cong Chen, Lei Zhu, Xinchao Wang
 
-Submitted to some conference
+Conference on Computer Vision and Pattern Recognition(CVPR)
 
 </div>
 </div>
