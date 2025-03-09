@@ -23,7 +23,7 @@ My research interests include Machine Learning and Computer Vision, especially i
 
 I am looking for a PhD position starting in Fall 2025.
 
-# 📝 Selected Publications 
+# 📝 Publications 
 
 \* indicates equal contributions
 
