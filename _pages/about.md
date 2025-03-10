@@ -145,3 +145,6 @@ Conference on Computer Vision and Pattern Recognition(CVPR)
 - Postgraduate Scholarship Award at HKUST
 - Outstanding Undergraduate Scholarship Award at USTC
 - Chinese Physics Olympiad(CPhO). First prize in Jiangxi Province
+
+# 🤠 Personal
+In my spare time, I enjoy photography, video games and derivative trading.
