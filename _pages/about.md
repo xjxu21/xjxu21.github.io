@@ -21,7 +21,7 @@ Hi, this is Xiaojie Xu(徐啸捷). I am currently an M.Phil. student in Artifici
 
 My research interests include Machine Learning and Computer Vision, especially in Generative Models, Multimodal Learning and 3D Vision. 
 
-I am looking for a PhD position starting in Fall 2025.
+I am always open to interesting research topics. Please feel free to contact me if you want to collaborate🤠.
 
 # 📝 Publications 
 
@@ -146,5 +146,5 @@ Conference on Computer Vision and Pattern Recognition(CVPR)
 - Outstanding Undergraduate Scholarship Award at USTC
 - Chinese Physics Olympiad(CPhO). First prize in Jiangxi Province
 
-# 🤠 Personal
+# 💟 Personal
 In my spare time, I enjoy photography, video games and derivative trading.
