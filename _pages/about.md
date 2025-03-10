@@ -41,6 +41,20 @@ Conference on Computer Vision and Pattern Recognition(CVPR)
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/audio.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Long-Video Audio Synthesis with Multi-Agent Collaboration](https://xjxu21.github.io/)
+
+Yehang Zhang\*, Xinli Xu\*, **<u>Xiaojie Xu</u>****\***, Li Liu, Ying-Cong Chen
+
+Submitted to some conference
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/vbench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
