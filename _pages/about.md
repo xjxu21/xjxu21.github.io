@@ -147,4 +147,4 @@ Conference on Computer Vision and Pattern Recognition(CVPR)
 - Chinese Physics Olympiad(CPhO). First prize in Jiangxi Province
 
 # ⛵ Personal
-In my spare time, I enjoy photography, video games and derivative trading.
+In my spare time, I enjoy [photography](https://www.instagram.com/jessexu21/), video games and derivative trading.
