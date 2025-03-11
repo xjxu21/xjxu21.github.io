@@ -31,7 +31,7 @@ I am always open to interesting research topics. Please feel free to contact me 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/posta.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[POSTA: A Go-to Framework for Customized Artistic Poster Generation](https://xjxu21.github.io/)
+[POSTA: A Go-to Framework for Customized Artistic Poster Generation](https://haoyuchen.com/POSTA)
 
 Haoyu Chen\*, **<u>Xiaojie Xu</u>****\***, Wenbo Li, Jingjing Ren, Tian Ye, Songhua Liu, Ying-Cong Chen, Lei Zhu, Xinchao Wang
 
