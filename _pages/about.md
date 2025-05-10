@@ -46,7 +46,7 @@ Conference on Computer Vision and Pattern Recognition(CVPR)
 
 [Long-Video Audio Synthesis with Multi-Agent Collaboration](https://arxiv.org/abs/2503.10719)
 
-Yehang Zhang\*, Xinli Xu\*, **<u>Xiaojie Xu</u>****\***, Li Liu, Ying-Cong Chen
+Yehang Zhang, Xinli Xu, **<u>Xiaojie Xu</u>**, Li Liu, Ying-Cong Chen
 
 Submitted to some conference
 
