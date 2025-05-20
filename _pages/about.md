@@ -54,7 +54,7 @@ Submitted to some journal
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/pregenie.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/pregenie_2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PreGenie: An Agentic Framework for High-quality Visual Presentation Generation](xjxu21.github.io)
