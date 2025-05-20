@@ -41,6 +41,33 @@ Conference on Computer Vision and Pattern Recognition(CVPR)
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/vbench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models](https://arxiv.org/abs/2411.13503)
+
+Ziqi Huang\*, Fan Zhang\*, **<u>Xiaojie Xu</u>**, Yinan He, Jiashuo Yu, Ziyue Dong, Qianli Ma, Nattapol Chanpaisit, Chenyang Si, Yuming Jiang, Yaohui Wang, Xinyuan Chen, Ying-Cong Chen, Limin Wang, Dahua Lin, Yu Qiao, Ziwei Liu
+
+Submitted to some journal
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/pregenie.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PreGenie: An Agentic Framework for High-quality Visual Presentation Generation](xjxu21.github.io)
+
+**<u>Xiaojie Xu</u>**, Xinli Xu, Sirui Chen, Haoyu Chen, Fan Zhang, Ying-Cong Chen
+
+Submitted to some conference
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/audio.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -53,19 +80,6 @@ Submitted to some conference
 </div>
 </div>
 
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/vbench.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models](https://arxiv.org/abs/2411.13503)
-
-Ziqi Huang\*, Fan Zhang\*, **<u>Xiaojie Xu</u>**, Yinan He, Jiashuo Yu, Ziyue Dong, Qianli Ma, Nattapol Chanpaisit, Chenyang Si, Yuming Jiang, Yaohui Wang, Xinyuan Chen, Ying-Cong Chen, Limin Wang, Dahua Lin, Yu Qiao, Ziwei Liu
-
-Submitted to some journal
-
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/hilo.png' alt="sym" width="100%"></div></div>
