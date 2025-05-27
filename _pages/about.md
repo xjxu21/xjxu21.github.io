@@ -30,7 +30,7 @@ I am always open to interesting research topics. Please feel free to contact me 
 ## Preprints
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/vbench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/vbench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models](https://arxiv.org/abs/2411.13503)
