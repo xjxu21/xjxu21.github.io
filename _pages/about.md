@@ -62,7 +62,7 @@ Submitted to some conference (May 2025)
 
 [Long-Video Audio Synthesis with Multi-Agent Collaboration](https://arxiv.org/abs/2503.10719)
 
-Yehang Zhang, Xinli Xu, **<u>Xiaojie Xu</u>**, Li Liu, Ying-Cong Chen
+Yehang Zhang, Xinli Xu, **<u>Xiaojie Xu</u>**, Doudou Zhang, Li Liu, Ying-Cong Chen
 
 Submitted to some conference (Mar. 2025)
 
