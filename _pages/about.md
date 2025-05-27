@@ -102,7 +102,7 @@ European Conference on Computer Vision(ECCV), **<u>Oral Presentation, Top 2.3%.<
 
 [From Bird’s-Eye to Street View: Crafting Diverse and Condition-Aligned Images with Latent Diffusion Model](https://ieeexplore.ieee.org/document/10611235)
 
-**<u>Xiaojie Xu</u>**, Tianshuo Xu, Fulong Ma and Yingcong Chen
+**<u>Xiaojie Xu</u>**, Tianshuo Xu, Fulong Ma and Ying-Cong Chen
 
 International Conference on Robotics and Automation(ICRA)
 
