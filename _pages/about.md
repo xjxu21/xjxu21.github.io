@@ -83,14 +83,14 @@ Conference on Computer Vision and Pattern Recognition(CVPR)
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/man.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024 Oral</div><img src='images/man.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Momentum Auxiliary Network for Supervised Local Learning](https://arxiv.org/abs/2407.05623)
 
 Junhao Su, Changpeng Cai, Feiyu Zhu, Chenghao He, **<u>Xiaojie Xu</u>**, Dongzhi Guan, Chenyang Si
 
-European Conference on Computer Vision(ECCV), **<u>Oral Presentation, Top 2.3%.</u>**
+European Conference on Computer Vision(ECCV), **Oral Presentation, Top 2.3%**
 
 </div>
 </div>
