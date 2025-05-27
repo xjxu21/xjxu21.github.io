@@ -25,7 +25,7 @@ I am always open to interesting research topics. Please feel free to contact me 
 
 # 📝 Publications 
 
-\* indicates equal contributions
+\* indicates equal contributions. For a complete list of publications, please refer to my [Google Scholar](https://scholar.google.com/citations?user=XTRyjAcAAAAJ) profile.
 
 ## Preprints
 
@@ -95,32 +95,6 @@ European Conference on Computer Vision(ECCV)
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/hilo.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[HPFF: Hierarchical Locally Supervised Learning with Patch Feature Fusion](https://arxiv.org/abs/2407.05638)
-
-Junhao Su, Chenghao He, Feiyu Zhu, **<u>Xiaojie Xu</u>**, Dongzhi Guan, Chenyang Si
-
-European Conference on Computer Vision(ECCV)
-
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/edc.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Every Dataset Counts: Scaling up Monocular 3D Object Detection with Joint Datasets Training](https://arxiv.org/abs/2310.00920)
-
-Fulong Ma, Xiaoyang Yan, Guoyang Zhao, **<u>Xiaojie Xu</u>**, Yuxuan Liu, Ming Liu
-
-International Conference on Intelligent Robots and Systems(IROS)
-
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2023</div><img src='images/bev2.png' alt="sym" width="100%"></div></div>
