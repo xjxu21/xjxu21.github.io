@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, this is Xiaojie Xu(徐啸捷). I am currently an M.Phil. student in Artificial Intelligence at [The Hong Kong University of Science and Technology, Guangzhou](https://www.hkust-gz.edu.cn/about/) advised by [Prof. Ying-Cong Chen](https://www.yingcong.me/). Prior, I received a Bachelor's degree in Automation from [University of Science and Technology of China](https://en.ustc.edu.cn/About.htm), advised by [Prof. Ligang Liu](http://staff.ustc.edu.cn/~lgliu/). 
 
-My research focuses on **Multimodal Understanding and Generation**, including images, videos, and 3D data.
+My research lies in **Computer Vision**, with a focus on **Multimodal Understanding and Generation**, including images, videos, and 3D data.
 
 I am always open to interesting research topics. Please feel free to contact me if you want to collaborate🤠.
 
