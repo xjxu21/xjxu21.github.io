@@ -37,7 +37,7 @@ I am always open to interesting research topics. Please feel free to contact me 
 
 Ziqi Huang\*, Fan Zhang\*, **<u>Xiaojie Xu</u>**, Yinan He, Jiashuo Yu, Ziyue Dong, Qianli Ma, Nattapol Chanpaisit, Chenyang Si, Yuming Jiang, Yaohui Wang, Xinyuan Chen, Ying-Cong Chen, Limin Wang, Dahua Lin, Yu Qiao, Ziwei Liu
 
-Submitted to some journal
+Submitted to some journal (Dec. 2024)
 
 </div>
 </div>
@@ -50,7 +50,7 @@ Submitted to some journal
 
 **<u>Xiaojie Xu</u>**, Xinli Xu, Sirui Chen, Haoyu Chen, Fan Zhang, Ying-Cong Chen
 
-Submitted to some conference
+Submitted to some conference (May 2025)
 
 </div>
 </div>
@@ -64,7 +64,7 @@ Submitted to some conference
 
 Yehang Zhang, Xinli Xu, **<u>Xiaojie Xu</u>**, Li Liu, Ying-Cong Chen
 
-Submitted to some conference
+Submitted to some conference (Mar. 2025)
 
 </div>
 </div>
