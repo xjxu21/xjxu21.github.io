@@ -37,7 +37,7 @@ I am always open to interesting research topics. Please feel free to contact me 
 
 Ziqi Huang\*, Fan Zhang\*, **<u>Xiaojie Xu</u>**, Yinan He, Jiashuo Yu, Ziyue Dong, Qianli Ma, Nattapol Chanpaisit, Chenyang Si, Yuming Jiang, Yaohui Wang, Xinyuan Chen, Ying-Cong Chen, Limin Wang, Dahua Lin, Yu Qiao, Ziwei Liu
 
-Submitted to some journal (Dec. 2024)
+Submitted to some journal (Dec. 2024), [Github](https://github.com/Vchitect/VBench) Stars > 1k
 
 </div>
 </div>
