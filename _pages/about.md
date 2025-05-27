@@ -43,7 +43,7 @@ Submitted to some journal (Dec. 2024)
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/pregenie_2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/pregenie_2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PreGenie: An Agentic Framework for High-quality Visual Presentation Generation](xjxu21.github.io)
@@ -57,7 +57,7 @@ Submitted to some conference (May 2025)
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/audio.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/audio.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Long-Video Audio Synthesis with Multi-Agent Collaboration](https://arxiv.org/abs/2503.10719)
