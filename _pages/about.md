@@ -27,18 +27,7 @@ I am always open to interesting research topics. Please feel free to contact me 
 
 \* indicates equal contributions
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/posta.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[POSTA: A Go-to Framework for Customized Artistic Poster Generation](https://haoyuchen.com/POSTA)
-
-Haoyu Chen\*, **<u>Xiaojie Xu</u>****\***, Wenbo Li, Jingjing Ren, Tian Ye, Songhua Liu, Ying-Cong Chen, Lei Zhu, Xinchao Wang
-
-Conference on Computer Vision and Pattern Recognition(CVPR)
-
-</div>
-</div>
+## Preprints
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/vbench.png' alt="sym" width="100%"></div></div>
@@ -76,6 +65,19 @@ Submitted to some conference
 Yehang Zhang, Xinli Xu, **<u>Xiaojie Xu</u>**, Li Liu, Ying-Cong Chen
 
 Submitted to some conference
+
+</div>
+</div>
+
+## Conference Papers
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/posta.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[POSTA: A Go-to Framework for Customized Artistic Poster Generation](https://haoyuchen.com/POSTA)
+
+Haoyu Chen\*, **<u>Xiaojie Xu</u>****\***, Wenbo Li, Jingjing Ren, Tian Ye, Songhua Liu, Ying-Cong Chen, Lei Zhu, Xinchao Wang
+
+Conference on Computer Vision and Pattern Recognition(CVPR)
 
 </div>
 </div>
