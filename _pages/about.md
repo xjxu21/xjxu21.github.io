@@ -46,7 +46,7 @@ Submitted to some journal (Dec. 2024), [Github](https://github.com/Vchitect/VBen
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/pregenie_2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PreGenie: An Agentic Framework for High-quality Visual Presentation Generation](xjxu21.github.io)
+[PreGenie: An Agentic Framework for High-quality Visual Presentation Generation](https://arxiv.org/abs/2505.21660)
 
 **<u>Xiaojie Xu</u>**, Xinli Xu, Sirui Chen, Haoyu Chen, Fan Zhang, Ying-Cong Chen
 
