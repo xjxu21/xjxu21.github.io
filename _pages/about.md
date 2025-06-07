@@ -37,7 +37,7 @@ I am always open to interesting research topics. Please feel free to contact me 
 
 Ziqi Huang\*, Fan Zhang\*, **<u>Xiaojie Xu</u>**, Yinan He, Jiashuo Yu, Ziyue Dong, Qianli Ma, Nattapol Chanpaisit, Chenyang Si, Yuming Jiang, Yaohui Wang, Xinyuan Chen, Ying-Cong Chen, Limin Wang, Dahua Lin, Yu Qiao, Ziwei Liu
 
-Submitted to some journal (Dec. 2024), [Github](https://github.com/Vchitect/VBench) stars > 1k
+Conditionally accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence(TPAMI), [Github](https://github.com/Vchitect/VBench) stars > 1k
 
 </div>
 </div>
@@ -50,7 +50,7 @@ Submitted to some journal (Dec. 2024), [Github](https://github.com/Vchitect/VBen
 
 **<u>Xiaojie Xu</u>**, Xinli Xu, Sirui Chen, Haoyu Chen, Fan Zhang, Ying-Cong Chen
 
-Submitted to some conference (May 2025)
+Submitted to some conference
 
 </div>
 </div>
@@ -64,7 +64,7 @@ Submitted to some conference (May 2025)
 
 Yehang Zhang, Xinli Xu, **<u>Xiaojie Xu</u>**, Doudou Zhang, Li Liu, Ying-Cong Chen
 
-Submitted to some conference (Mar. 2025)
+Submitted to some conference
 
 </div>
 </div>
