@@ -50,7 +50,7 @@ Conditionally accepted by IEEE Transactions on Pattern Analysis and Machine Inte
 
 **<u>Xiaojie Xu</u>**, Xinli Xu, Sirui Chen, Haoyu Chen, Fan Zhang, Ying-Cong Chen
 
-Submitted to some conference
+Under review
 
 </div>
 </div>
@@ -64,7 +64,7 @@ Submitted to some conference
 
 Yehang Zhang, Xinli Xu, **<u>Xiaojie Xu</u>**, Doudou Zhang, Li Liu, Ying-Cong Chen
 
-Submitted to some conference
+Under review
 
 </div>
 </div>
