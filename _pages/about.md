@@ -127,7 +127,7 @@ Conference on Computer Vision and Pattern Recognition(CVPR)
 - *Bachelor of Engineering(B.Eng.) in Automation*, [University of Science and Technology of China](https://en.ustc.edu.cn/index.htm)
 - *Master of Philosophy(M.Phil.) in Artificial Intelligence*, [The Hong Kong University of Science and Technology, Guangzhou](https://www.hkust-gz.edu.cn/about/)
 
-# 💻 Experiences
+# 💻 Research Experiences
 - *2023.10 – 2024.05*, Research Intern(AIGC) at [Shanghai AI Lab](https://www.shlab.org.cn/) and [Nanyang Technological University](https://www.ntu.edu.sg/), with [Dr. Chenyang Si](https://scholar.google.com.sg/citations?user=XdahAuoAAAAJ&hl=en) and [Prof. Ziwei Liu](https://scholar.google.com.hk/citations?user=lc45xlcAAAAJ&hl=en)
 - *2022.06 – 2023.03*, Research Intern(Digital Human) at [Tencent AI Lab](https://ailab.tencent.com/ailab/en/index), with [Dr. Di Kang](https://scholar.google.com.hk/citations?user=2ztThPwAAAAJ) and [Prof. Linchao Bao](https://scholar.google.com/citations?user=xQZMbkUAAAAJ&hl=en)
 - *2021.06 – 2021.12*, Research Assistant(Autonomous Driving) at [Tsinghua University](https://iiis.tsinghua.edu.cn/en/), with [Prof. Hang Zhao](https://scholar.google.com/citations?user=DmahiOYAAAAJ&hl=en)
