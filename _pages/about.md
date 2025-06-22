@@ -97,7 +97,7 @@ European Conference on Computer Vision(ECCV), **Oral Presentation, Top 2.3%**
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2023</div><img src='images/bev4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2023</div><img src='images/bev5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [From Bird’s-Eye to Street View: Crafting Diverse and Condition-Aligned Images with Latent Diffusion Model](https://ieeexplore.ieee.org/document/10611235)
