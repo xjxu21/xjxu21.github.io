@@ -27,8 +27,6 @@ I am always open to interesting research topics. Please feel free to contact me 
 
 \* indicates equal contributions. For a complete list of publications, please refer to my [Google Scholar](https://scholar.google.com/citations?user=XTRyjAcAAAAJ) profile.
 
-## Preprints
-
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/vbench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -37,39 +35,36 @@ I am always open to interesting research topics. Please feel free to contact me 
 
 Ziqi Huang\*, Fan Zhang\*, **<u>Xiaojie Xu</u>**, Yinan He, Jiashuo Yu, Ziyue Dong, Qianli Ma, Nattapol Chanpaisit, Chenyang Si, Yuming Jiang, Yaohui Wang, Xinyuan Chen, Ying-Cong Chen, Limin Wang, Dahua Lin, Yu Qiao, Ziwei Liu
 
-Conditionally accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence(TPAMI), [Github](https://github.com/Vchitect/VBench) stars > 1k
+Submitted to some journal, [Github](https://github.com/Vchitect/VBench) stars > 1k
 
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/pregenie_2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025, Findings</div><img src='images/pregenie_2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PreGenie: An Agentic Framework for High-quality Visual Presentation Generation](https://arxiv.org/abs/2505.21660)
 
 **<u>Xiaojie Xu</u>**, Xinli Xu, Sirui Chen, Haoyu Chen, Fan Zhang, Ying-Cong Chen
 
-Under review
+Conference on Empirical Methods in Natural Language Processing(EMNLP), Findings
 
 </div>
 </div>
 
 
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/audio.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025, Main</div><img src='images/audio.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Long-Video Audio Synthesis with Multi-Agent Collaboration](https://arxiv.org/abs/2503.10719)
 
 Yehang Zhang\*, Xinli Xu\*, **<u>Xiaojie Xu</u>****\***, Doudou Zhang, Li Liu, Ying-Cong Chen
 
-Under review
+Conference on Empirical Methods in Natural Language Processing(EMNLP), Main
 
 </div>
 </div>
 
-## Conference Papers
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/posta.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -83,7 +78,7 @@ Conference on Computer Vision and Pattern Recognition(CVPR)
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024 Oral</div><img src='images/man.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024, Oral</div><img src='images/man.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Momentum Auxiliary Network for Supervised Local Learning](https://arxiv.org/abs/2407.05623)
