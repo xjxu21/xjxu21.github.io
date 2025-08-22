@@ -116,6 +116,10 @@ Conference on Computer Vision and Pattern Recognition(CVPR)
 </div>
 
 
+# 📖 Education
+- *Bachelor of Engineering(B.Eng.) in Automation*, [University of Science and Technology of China](https://en.ustc.edu.cn/index.htm)
+- *Master of Philosophy(M.Phil.) in Artificial Intelligence*, [The Hong Kong University of Science and Technology, Guangzhou](https://www.hkust-gz.edu.cn/about/)
+
 # 💻 Research Experiences
 - *2023.10 – 2024.05*, Generative Models, [Nanyang Technological University](https://www.ntu.edu.sg/), with [Prof. Chenyang Si](https://scholar.google.com.sg/citations?user=XdahAuoAAAAJ&hl=en) and [Prof. Ziwei Liu](https://scholar.google.com.hk/citations?user=lc45xlcAAAAJ&hl=en)
 - *2022.06 – 2023.03*, Digital Human, [Tencent AI Lab](https://ailab.tencent.com/ailab/en/index), with [Dr. Di Kang](https://scholar.google.com.hk/citations?user=2ztThPwAAAAJ) and [Prof. Linchao Bao](https://scholar.google.com/citations?user=xQZMbkUAAAAJ&hl=en)
