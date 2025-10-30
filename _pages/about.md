@@ -21,7 +21,7 @@ Hi, this is Xiaojie Xu(徐 啸捷). I am currently an M.Phil. student in Artific
 
 My research focuses on **Generative AI and Agentic AI**, with applications in multimodal understanding and generation. Representative works:
 
-- **Generative AI**: [POSTA](https://arxiv.org/abs/2503.14908)(movie poster generation, CVPR 25), [BEV to Street View](https://arxiv.org/abs/2409.01014)(street-view images generation, ICRA 24), [VBench++](https://arxiv.org/abs/2411.13503)(benchmarking video generative models, Arxiv 25)
+- **Generative AI**: [POSTA](https://arxiv.org/abs/2503.14908)(visually appealing movie poster generation from text, CVPR 25), [BEV to Street View](https://arxiv.org/abs/2409.01014)(street-view images generation from Bird's-eye view map, ICRA 24), [VBench++](https://arxiv.org/abs/2411.13503)(benchmarking video generative models, Arxiv 25)
 - **Agentic AI** : [PreGenie](https://arxiv.org/abs/2505.21660)(MLLM agents for text-image document understanding and presentation generation, EMNLP 25), [Orchestrating Audio](https://arxiv.org/abs/2503.10719)(MLLM agents for long-video understanding and audio generation, EMNLP 25)
 
 Feel free to contact me if you want to collaborate🤠.
