@@ -30,7 +30,7 @@ Feel free to contact me for discussion and collaboration🤠.
 
 \* indicates equal contributions. For a complete list of publications, please refer to my [Google Scholar](https://scholar.google.com/citations?user=XTRyjAcAAAAJ) profile.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/vbench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-PAMI 2025</div><img src='images/vbench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models](https://arxiv.org/abs/2411.13503)
