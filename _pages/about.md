@@ -21,7 +21,7 @@ Hi, this is Xiaojie Xu(徐 啸捷). I am currently an M.Phil. student in Artific
 
 My research focuses on **Visual Generative Models** and **Large Language Models(LLMs)**, with applications in multimodal understanding and generation. Representative works include:
 
-- **Visual Generative Models**: [POSTA](https://arxiv.org/abs/2503.14908)(visually appealing movie poster generation from text, CVPR 25), [BEV to Street View](https://arxiv.org/abs/2409.01014)(street-view images generation from bird's-eye view map, ICRA 24), [VBench++](https://arxiv.org/abs/2411.13503)(benchmarking video generative models, Arxiv 25)
+- **Visual Generative Models**: [POSTA](https://arxiv.org/abs/2503.14908)(visually appealing movie poster generation from text, CVPR 25), [BEV to Street View](https://arxiv.org/abs/2409.01014)(street-view images generation from bird's-eye view map, ICRA 24), [VBench++](https://arxiv.org/abs/2411.13503)(benchmarking video generative models, T-PAMI 25)
 - **Large Language Models** : [PreGenie](https://arxiv.org/abs/2505.21660)(Multimodal LLMs for text-image document understanding and presentation generation, EMNLP 25), [Orchestrating Audio](https://arxiv.org/abs/2503.10719)(Multimodal LLMs for long-video understanding and audio generation, EMNLP 25)
 
 Feel free to contact me for discussion and collaboration🤠.
