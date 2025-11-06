@@ -37,7 +37,7 @@ Feel free to contact me for discussion and collaboration🤠.
 
 Ziqi Huang\*, Fan Zhang\*, **<u>Xiaojie Xu</u>**, Yinan He, Jiashuo Yu, Ziyue Dong, Qianli Ma, Nattapol Chanpaisit, Chenyang Si, Yuming Jiang, Yaohui Wang, Xinyuan Chen, Ying-Cong Chen, Limin Wang, Dahua Lin, Yu Qiao, Ziwei Liu
 
-Submitted to some journal, [Github](https://github.com/Vchitect/VBench) stars > 1k
+IEEE Transactions on Pattern Analysis and Machine Intelligence(T-PAMI), [Github](https://github.com/Vchitect/VBench) stars > 1k
 
 </div>
 </div>
