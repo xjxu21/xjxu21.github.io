@@ -19,14 +19,14 @@ redirect_from:
 
 Hi, this is Xiaojie Xu(徐 啸捷). I am currently an M.Phil. student in Artificial Intelligence at [The Hong Kong University of Science and Technology, Guangzhou](https://www.hkust-gz.edu.cn/about/) advised by [Prof. Ying-Cong Chen](https://www.yingcong.me/). Prior, I received a Bachelor's degree in Automation from [University of Science and Technology of China](https://en.ustc.edu.cn/About.htm), advised by [Prof. Ligang Liu](http://staff.ustc.edu.cn/~lgliu/). 
 
-My research focuses on **Visual Generative Models** and **Multimodal Large Language Models(MLLMs)** for content understanding and generation. Representative works include:
+My current research focuses on **Visual Generative Models** and **Multimodal Large Language Models(MLLMs)** for content understanding and generation. Representative works include:
 
 - **Visual Generative Models**: [POSTA](https://arxiv.org/abs/2503.14908)(visually appealing movie poster generation from text, CVPR 25), [BEV to Street View](https://arxiv.org/abs/2409.01014)(street-view images generation from bird's-eye view map, ICRA 24), [VBench++](https://arxiv.org/abs/2411.13503)(benchmarking video generative models, T-PAMI 25)
 - **Multimodal Large Language Models** : [PreGenie](https://arxiv.org/abs/2505.21660)(MLLMs for text-image document understanding and presentation generation, EMNLP 25), [Orchestrating Audio](https://arxiv.org/abs/2503.10719)(MLLMs for long-video understanding and audio generation, EMNLP 25)
 
 Feel free to contact me for discussion and collaboration🤠.
 
-# 📝 Publications 
+# 📝 Recent Publications 
 
 \* indicates equal contributions. For a complete list of publications, please refer to my [Google Scholar](https://scholar.google.com/citations?user=XTRyjAcAAAAJ) profile.
 
@@ -80,20 +80,6 @@ Conference on Computer Vision and Pattern Recognition(CVPR)
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024, Oral</div><img src='images/man.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Momentum Auxiliary Network for Supervised Local Learning](https://arxiv.org/abs/2407.05623)
-
-Junhao Su, Changpeng Cai, Feiyu Zhu, Chenghao He, **<u>Xiaojie Xu</u>**, Dongzhi Guan, Chenyang Si
-
-European Conference on Computer Vision(ECCV), **Oral Presentation, Top 2.3%**
-
-</div>
-</div>
-
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2023</div><img src='images/bev7.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -102,18 +88,6 @@ European Conference on Computer Vision(ECCV), **Oral Presentation, Top 2.3%**
 **<u>Xiaojie Xu</u>**, Tianshuo Xu, Fulong Ma and Ying-Cong Chen
 
 International Conference on Robotics and Automation(ICRA)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/caric.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[3DCaricShop: A Dataset and A Baseline Method for Single-view 3D Caricature Face Reconstruction](https://qiuyuda.github.io/3DCaricShop/)
-
-Yuda Qiu, **<u>Xiaojie Xu</u>**, Lingteng Qiu, Yan Pan, Yushuang Wu, Weikai Chen, and Xiaoguang Han
-
-Conference on Computer Vision and Pattern Recognition(CVPR)
 
 </div>
 </div>
