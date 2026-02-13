@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, this is Xiaojie Xu(徐 啸捷). I am currently an M.Phil. student in Artificial Intelligence at [The Hong Kong University of Science and Technology, Guangzhou](https://www.hkust-gz.edu.cn/about/) advised by [Prof. Ying-Cong Chen](https://www.yingcong.me/). Prior, I received a Bachelor's degree in Automation from [University of Science and Technology of China](https://en.ustc.edu.cn/About.htm), advised by [Prof. Ligang Liu](http://staff.ustc.edu.cn/~lgliu/). 
+I am an incoming Ph.D. student in Information Science and Technology at [The University of Tokyo](https://www.i.u-tokyo.ac.jp/index_e.shtml). Prior, I did research with [Shanda AI Research Tokyo](https://jp.shanda.com/), [Tencent AI Lab](https://ailab.tencent.com/ailab/en/index/), [NTU MMLab](https://www.mmlab-ntu.com/) and [Tsinghua IIIS](https://iiis.tsinghua.edu.cn/en/). 
 
-My current research focuses on **Visual Generative Models** and **Multimodal Large Language Models(MLLMs)** for content understanding and generation. Representative works include:
+My current research focuses on **Generative AI, including image, video and multimodal generation**. Representative works include:
 
-- **Visual Generative Models**: [POSTA](https://arxiv.org/abs/2503.14908)(visually appealing movie poster generation from text, CVPR 25), [BEV to Street View](https://arxiv.org/abs/2409.01014)(street-view images generation from bird's-eye view map, ICRA 24), [VBench++](https://arxiv.org/abs/2411.13503)(benchmarking video generative models, T-PAMI 25)
-- **Multimodal Large Language Models** : [PreGenie](https://arxiv.org/abs/2505.21660)(MLLMs for text-image document understanding and presentation generation, EMNLP 25), [Orchestrating Audio](https://arxiv.org/abs/2503.10719)(MLLMs for long-video understanding and audio generation, EMNLP 25)
+- **Multimodal Generation**: [POSTA](https://arxiv.org/abs/2503.14908)(visually appealing movie poster generation from text, CVPR 25), [PreGenie](https://arxiv.org/abs/2505.21660)(MLLM Agents for text-image document understanding and presentation generation, EMNLP 25), [Orchestrating Audio](https://arxiv.org/abs/2503.10719)(MLLM Agents for long-video understanding and audio generation, EMNLP 25)
+- **Image/Video Generation** : [VBench++](https://arxiv.org/abs/2411.13503)(benchmarking video generative models, T-PAMI 25), [BEV to Street View](https://arxiv.org/abs/2409.01014)(street-view images generation from bird's-eye view map, ICRA 24)
 
 Feel free to contact me for discussion and collaboration🤠.
 
@@ -91,3 +91,8 @@ International Conference on Robotics and Automation(ICRA)
 
 </div>
 </div>
+
+# 📖 Education
+- *Doctor of Philosophy(Ph.D.) in Information and Communication Engineering(Incoming)*, [The University of Tokyo](https://www.u-tokyo.ac.jp/en/)
+- *Master of Philosophy(M.Phil.) in Artificial Intelligence*, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), with Prof. [Ying-Cong Chen](https://www.yingcong.me/)
+- *Bachelor of Engineering(B.Eng.) in Automation*, [University of Science and Technology of China](https://en.ustc.edu.cn/index.htm), with Prof. [Ligang Liu](http://staff.ustc.edu.cn/~lgliu/)
