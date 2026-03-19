@@ -58,7 +58,7 @@ Conference on Empirical Methods in Natural Language Processing(EMNLP), Findings
 
 [Long-Video Audio Synthesis with Multi-Agent Collaboration](https://arxiv.org/abs/2503.10719)
 
-Yehang Zhang\*, Xinli Xu\*, **<u>Xiaojie Xu</u>****\***, Doudou Zhang, Li Liu, Ying-Cong Chen
+Yehang Zhang, Xinli Xu, **<u>Xiaojie Xu</u>**, Doudou Zhang, Li Liu, Ying-Cong Chen
 
 Conference on Empirical Methods in Natural Language Processing(EMNLP), Main
 
