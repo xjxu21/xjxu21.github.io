@@ -94,3 +94,5 @@ International Conference on Robotics and Automation(ICRA)
 - <img src='./images/utokyo3.png' style='width: 6em;'> *Doctor of Philosophy in Information and Communication Engineering(Incoming)*, [The University of Tokyo](https://www.u-tokyo.ac.jp/en/)
 - <img src='./images/hkust3.png' style='width: 6em;'> *Master of Philosophy in Artificial Intelligence*, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), with Prof. [Ying-Cong Chen](https://www.yingcong.me/)
 - <img src='./images/ustc3.png' style='width: 6em;'> *Bachelor of Engineering in Automation*, [University of Science and Technology of China](https://en.ustc.edu.cn/index.htm), with Prof. [Ligang Liu](http://staff.ustc.edu.cn/~lgliu/)
+
+<p style="text-align: center; color: #888; font-size: 0.8em; margin-top: 2em;">Last updated: Feb. 2026</p>
