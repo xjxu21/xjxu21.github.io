@@ -23,7 +23,6 @@ Hi, this is Xiaojie Xu(徐啸捷). I am an incoming Ph.D. student in Information
 - **Image/Video Generation**: [VBench++](https://arxiv.org/abs/2411.13503)(benchmarking video generative models, T-PAMI 25), [BEV to Street View](https://arxiv.org/abs/2409.01014)(street-view images generation from bird's-eye view map, ICRA 24)
 
 Recently I've been working on **Interactive Video World Models for Games**, with [Dr. Kaipeng Zhang](https://kpzhang93.github.io/) at [Shanda AI Research Tokyo](https://jp.shanda.com/). 
-
 Prior, I did research with [Tencent AI Lab](https://ailab.tencent.com/ailab/en/index/), [NTU MMLab](https://www.mmlab-ntu.com/) and [Tsinghua IIIS](https://iiis.tsinghua.edu.cn/en/).
 
 # 📝 Recent Publications 
