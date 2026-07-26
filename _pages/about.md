@@ -24,6 +24,7 @@ Hi, this is Xiaojie Xu(徐啸捷). I am an incoming Ph.D. student in Information
 
 Recently I've been working on **Interactive Video World Models** for games, with [Dr. Kaipeng Zhang](https://kpzhang93.github.io/) at [Alaya Lab Tokyo](https://alayalab.ai/). Prior, I did research with [Tencent AI Lab](https://ailab.tencent.com/ailab/en/index/), [NTU MMLab](https://www.mmlab-ntu.com/) and [Tsinghua IIIS](https://iiis.tsinghua.edu.cn/en/). Feel free to contact me if you would like to chat🤠.
 
+
 # 📝 Recent Publications 
 
 \* indicates equal contributions. For a complete list of publications, please refer to my [Google Scholar](https://scholar.google.com/citations?user=XTRyjAcAAAAJ) profile.
