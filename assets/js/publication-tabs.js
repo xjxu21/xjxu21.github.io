@@ -75,4 +75,14 @@
   });
   window.addEventListener('hashchange', () => fromHash(true));
   fromHash(ids.includes(location.hash.slice(1)));
+
+  // Warm both topic panels immediately, including images in the hidden panel.
+  // Decode asynchronously so switching topics does not wait on lazy loading.
+  panels.forEach(panel => {
+    panel.querySelectorAll('img').forEach(img => {
+      img.decoding = 'async';
+      img.loading = 'eager';
+      if (typeof img.decode === 'function') img.decode().catch(() => {});
+    });
+  });
 })();
