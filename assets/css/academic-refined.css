@@ -19,7 +19,7 @@ h2::after { display: none; }
 .academic-content h3 { font: 600 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; letter-spacing: 0; color: #176190; margin: 30px 0 22px; padding-bottom: 10px; border-bottom: 1px solid #cedbe4; scroll-margin-top: 20px; }
 .publication-grid { min-width: 0; }
 .paper-box { grid-template-columns: 280px minmax(0,1fr); gap: 28px; align-items: start; padding: 0 0 28px; margin: 0 0 28px; }
-.paper-box-image { width: 100%; max-width: none; padding: 0; }
+.paper-box-image { width: 100%; max-width: none; padding: 0; align-self: center; }
 .paper-box-image > div { display: block; }
 .paper-box-image .badge { display: none; }
 .paper-box-image img { display: block; width: 100%; height: auto; object-fit: contain; background: #fff; border-radius: 5px; border: 1px solid #e3e7eb; }
