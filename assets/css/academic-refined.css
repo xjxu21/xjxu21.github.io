@@ -1,7 +1,21 @@
 /* Selected design A: balanced academic layout. */
 :root { --background: #fcfbf8; --text: #293b4a; --muted: #526475; --line: #e0e5e8; }
 body { border: 0; background: var(--background); font-size: 15px; line-height: 1.75; }
-.academic-page { max-width: 1060px; padding: 48px 32px 32px; }
+.academic-page { max-width: 1060px; padding: 36px 32px 32px; }
+.intro-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.1fr); gap: 36px; align-items: center; padding-bottom: 26px; border-bottom: 1px solid var(--line); }
+.intro-grid .profile { display: grid; grid-template-columns: 88px minmax(0, 1fr); align-items: start; gap: 20px; border: 0; margin: 0; padding: 0; }
+.intro-grid .profile-photo { width: 88px; height: 88px; }
+.intro-grid h1 { font-size: 34px; }
+.intro-grid .profile-heading { margin-bottom: 8px; }
+.intro-grid .profile-role { font-size: 14px; line-height: 1.6; margin-bottom: 6px; }
+.intro-grid .profile-email { font-size: 13px; }
+.intro-grid .profile-links { gap: 7px 14px; margin-top: 12px; font-size: 12px; }
+.biography { border-left: 2px solid #e5be42; padding-left: 26px; font-size: 14px; line-height: 1.7; }
+.biography p { margin: 0 0 12px; }
+.biography p:last-child { margin-bottom: 0; color: var(--muted); font-size: 13px; }
+.biography ul { margin: 0 0 12px; padding-left: 19px; }
+.biography li { margin: 3px 0; }
+.academic-content { padding-top: 24px; }
 .profile { border: 0; padding: 0 0 30px; margin: 0 0 28px; gap: 32px; background: transparent; border-radius: 0; }
 .profile-photo { width: 132px; height: 132px; outline: none; border: 0; box-shadow: none; }
 h1 { font: 400 40px/1.15 Georgia, serif; color: #163d59; letter-spacing: -1.2px; background: none; }
@@ -13,16 +27,16 @@ h1 { font: 400 40px/1.15 Georgia, serif; color: #163d59; letter-spacing: -1.2px;
 .academic-content > p { margin-bottom: 14px; }
 .academic-content > ul:not(.education-list) { margin: 10px 0 18px; }
 .academic-content > ul:not(.education-list) li { margin: 3px 0; }
-h2 { font: 600 23px/1.35 -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; margin: 38px 0 18px; letter-spacing: -.4px; }
+h2 { font: 600 23px/1.35 -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; margin: 26px 0 14px; letter-spacing: -.4px; }
 h2::after { display: none; }
 .publication-note { margin: 0 0 24px; font-size: 12px; color: #617180; }
-.academic-content h3 { font: 600 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; letter-spacing: 0; color: #176190; margin: 30px 0 22px; padding-bottom: 10px; border-bottom: 1px solid #cedbe4; scroll-margin-top: 20px; }
+.academic-content h3 { font: 600 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; letter-spacing: 0; color: #176190; margin: 22px 0 18px; padding-bottom: 8px; border-bottom: 1px solid #cedbe4; scroll-margin-top: 20px; }
 .publication-grid { min-width: 0; }
-.paper-box { grid-template-columns: 280px minmax(0,1fr); gap: 28px; align-items: start; padding: 0 0 28px; margin: 0 0 28px; }
+.paper-box { grid-template-columns: 280px minmax(0,1fr); gap: 28px; align-items: center; padding: 0 0 20px; margin: 0 0 20px; }
 .paper-box-image { width: 100%; max-width: none; padding: 0; align-self: center; }
 .paper-box-image > div { display: block; }
 .paper-box-image .badge { display: none; }
-.paper-box-image img { display: block; width: 100%; height: auto; object-fit: contain; background: #fff; border-radius: 5px; border: 1px solid #e3e7eb; }
+.paper-box-image img { display: block; width: auto; max-width: 100%; height: auto; max-height: 190px; margin: 0 auto; object-fit: contain; background: #fff; border-radius: 5px; border: 1px solid #e3e7eb; }
 .paper-box-text { font-size: 14px; line-height: 1.65; color: #4a5b69; }
 .paper-box-text > p { margin: 0 0 9px; }
 .paper-box-text > p:first-child { font: 600 18px/1.45 -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; letter-spacing: -.15px; margin-bottom: 11px; }
@@ -42,6 +56,8 @@ h2::before { content: ""; width: 5px; height: 21px; border-radius: 2px; backgrou
 .paper-box:last-child { border-bottom: 0; padding-bottom: 0; }
 
 @media(max-width:800px) {
+  .intro-grid { grid-template-columns: 1fr; gap: 22px; }
+  .biography { border-left: 0; padding-left: 0; }
   .academic-page { padding: 36px 24px; }
   .paper-box { grid-template-columns: 240px minmax(0,1fr); gap: 24px; }
 }
@@ -52,6 +68,7 @@ h2::before { content: ""; width: 5px; height: 21px; border-radius: 2px; backgrou
   h1 { font-size: 36px; }
   .paper-box { display: flex; flex-direction: column; gap: 20px; align-items: stretch; }
   .paper-box-image { width: 100%; max-width: 360px; }
+  .paper-box-image img { max-height: 220px; }
   .education-list li { gap: 16px; }
   .school-logo { width: 68px; }
 }
