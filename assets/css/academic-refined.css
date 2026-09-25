@@ -54,14 +54,14 @@ h2::after { display: none; }
 .education-list li { display: grid; grid-template-columns: 104px minmax(0, 1fr); align-items: center; gap: 24px; padding: 18px 0; }
 .education-list strong, .experience-list strong { font-size: 16px; font-weight: 600; line-height: 1.75; color: #213c51; }
 .education-list .degree { display: block; font-size: 15px; line-height: 1.75; margin-top: 3px; }
-.school-logo { width: 104px; height: 70px; }
+.school-logo { width: 88px; height: 60px; justify-self: center; }
 .academic-content .education-list, .academic-content .experience-list { margin: 10px 0 18px; }
 .academic-content .education-list li, .academic-content .experience-list li { margin: 0; }
 .education-list li:last-child { border-bottom: 1px solid var(--line); }
 .academic-footer { margin-top: 28px; }
 .experience-list, .awards-list { list-style: none; padding: 0; margin: 0; }
 .experience-list li { display: grid; grid-template-columns: 104px minmax(0, 1fr) auto; align-items: center; gap: 24px; padding: 18px 0; margin: 0; border-bottom: 1px solid var(--line); }
-.experience-logo { width: 104px; height: 70px; object-fit: contain; }
+.experience-logo { width: 88px; height: 60px; object-fit: contain; justify-self: center; }
 .experience-logo[src$="/alaya.jpg"],
 .experience-logo[src$="/tsinghua.png"],
 .experience-logo[src$="/tenecnt.png"] { mix-blend-mode: multiply; }
@@ -79,7 +79,7 @@ h2::after { display: none; }
 }
 @media(max-width:580px) {
   .experience-list li { grid-template-columns: 76px minmax(0, 1fr); gap: 4px 16px; }
-  .experience-logo { width: 76px; height: 60px; grid-row: span 2; }
+  .experience-logo { width: 64px; height: 50px; grid-row: span 2; }
   .experience-list time { grid-column: 2; }
   .section-navigation a { font-size: 13px; padding: 6px 9px; }
 }
@@ -130,7 +130,7 @@ h2::before { display: none; }
   .paper-box-image { width: 100%; max-width: 360px; }
   .paper-box-image img { max-height: 220px; }
   .education-list li { grid-template-columns: 76px minmax(0, 1fr); gap: 4px 16px; }
-  .school-logo { width: 76px; height: 60px; }
+  .school-logo { width: 64px; height: 50px; }
 }
 @media print {
   body { background: #fff; }
