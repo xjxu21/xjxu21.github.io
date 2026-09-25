@@ -20,7 +20,6 @@ I am open to collaboration and discussion. Feel free to contact me via email or 
 
 ## Selected Publications
 
-<p class="publication-note">* indicates equal contributions. For a complete list, please see my <a href="https://scholar.google.com/citations?user=XTRyjAcAAAAJ">Google Scholar</a> profile.</p>
 
 ### Interactive World Models
 
@@ -29,7 +28,7 @@ I am open to collaboration and discussion. Feel free to contact me via email or 
 
 [WorldRover: A Scalable Synthetic Video Data Engine for World Exploration with Rich Annotations](https://alayalab.github.io/WorldRover/)
 
-**<u>Xiaojie Xu</u>**\*, Zhengyuan Lin\*, Runyi Li, Yihao Liu, Kaipeng Zhang, Yongtao Ge
+**<u>Xiaojie Xu</u>**\*, Zhengyuan Lin\*, Runyi Li, Yihao Liu, Kaipeng Zhang, Yongtao Ge (\* equal contribution)
 
 Tech Report 2026
 
@@ -85,7 +84,7 @@ Conference on Computer Vision and Pattern Recognition (CVPR), 2026
 
 [VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models](https://arxiv.org/abs/2411.13503)
 
-Ziqi Huang\*, Fan Zhang\*, **<u>Xiaojie Xu</u>**, Yinan He, Jiashuo Yu, Ziyue Dong, Qianli Ma, Nattapol Chanpaisit, Chenyang Si, Yuming Jiang, Yaohui Wang, Xinyuan Chen, Ying-Cong Chen, Limin Wang, Dahua Lin, Yu Qiao, Ziwei Liu
+Ziqi Huang\*, Fan Zhang\*, **<u>Xiaojie Xu</u>**, Yinan He, Jiashuo Yu, Ziyue Dong, Qianli Ma, Nattapol Chanpaisit, Chenyang Si, Yuming Jiang, Yaohui Wang, Xinyuan Chen, Ying-Cong Chen, Limin Wang, Dahua Lin, Yu Qiao, Ziwei Liu (\* equal contribution)
 
 IEEE Transactions on Pattern Analysis and Machine Intelligence(T-PAMI)
 
@@ -101,7 +100,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence(T-PAMI)
 
 [POSTA: A Go-to Framework for Customized Artistic Poster Generation](https://haoyuchen.com/POSTA)
 
-Haoyu Chen\*, **<u>Xiaojie Xu</u>**\*, Wenbo Li, Jingjing Ren, Tian Ye, Songhua Liu, Ying-Cong Chen, Lei Zhu, Xinchao Wang
+Haoyu Chen\*, **<u>Xiaojie Xu</u>**\*, Wenbo Li, Jingjing Ren, Tian Ye, Songhua Liu, Ying-Cong Chen, Lei Zhu, Xinchao Wang (\* equal contribution)
 
 Conference on Computer Vision and Pattern Recognition(CVPR)
 
