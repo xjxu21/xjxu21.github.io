@@ -9,7 +9,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, this is Xiaojie Xu(徐啸捷). Recently, my research focuses on:
+Hi, this is Xiaojie Xu(徐啸捷). I am a Ph.D. student at [The University of Tokyo](https://www.i.u-tokyo.ac.jp/index_e.shtml). Prior, I received my M.Phil. and B.Eng degree from [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) and [University of Science and Technology](https://www.ustc.edu.cn/), respectively.
+
+Recently, my research focuses on:
 
 - Interactive World Models
 - Multimodal Understanding and Generation
