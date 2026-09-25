@@ -3,11 +3,11 @@
 body { border: 0; background: var(--background); font-size: 16px; line-height: 1.75; }
 .academic-page { max-width: 904px; padding: 44px 32px 32px; }
 .intro-grid { display: block; padding-bottom: 0; border: 0; }
-.intro-grid .profile { display: grid; grid-template-columns: minmax(0, 1fr) 112px; align-items: center; gap: 22px 32px; border: 0; margin: 0 0 28px; padding: 0; }
-.intro-grid .profile-photo { grid-column: 2; grid-row: 1; width: 112px; height: 112px; }
-.intro-grid .profile-info { grid-column: 1; grid-row: 1; min-width: 0; }
+.intro-grid .profile { display: grid; grid-template-columns: minmax(0, 1fr); align-items: center; gap: 18px; border: 0; margin: 0 0 28px; padding: 0; }
+.intro-grid .profile-photo { grid-column: 1; grid-row: 1; justify-self: center; width: 112px; height: 112px; }
+.intro-grid .profile-info { grid-column: 1; grid-row: 2; min-width: 0; text-align: center; }
 .intro-grid h1 { font-size: 42px; }
-.intro-grid .profile-heading { margin-bottom: 12px; }
+.intro-grid .profile-heading { margin-bottom: 0; }
 .intro-grid .profile-role { margin-bottom: 4px; }
 .intro-grid .profile-email { margin: 0; }
 .intro-grid .profile-role, .intro-grid .profile-email, .biography { font-family: inherit; font-size: 17px; font-weight: 400; line-height: 1.7; color: var(--text); }
@@ -133,7 +133,7 @@ h2::before { display: none; }
 }
 @media(max-width:580px) {
   .academic-page { padding: 28px 20px; }
-  .intro-grid .profile { grid-template-columns: minmax(0, 1fr) 84px; gap: 16px; }
+  .intro-grid .profile { grid-template-columns: minmax(0, 1fr); gap: 16px; }
   .intro-grid .profile-photo { width: 84px; height: 84px; align-self: start; }
   .intro-grid h1 { font-size: 32px; }
   .profile { flex-direction: column; align-items: flex-start; gap: 22px; text-align: left; }
