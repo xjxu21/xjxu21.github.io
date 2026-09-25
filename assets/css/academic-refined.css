@@ -8,12 +8,13 @@ body { border: 0; background: var(--background); font-size: 16px; line-height: 1
 .intro-grid .profile-info { grid-column: 1; grid-row: 1; min-width: 0; }
 .intro-grid h1 { font-size: 42px; }
 .intro-grid .profile-heading { margin-bottom: 8px; }
-.intro-grid .profile-role { font-size: 17px; line-height: 1.6; margin-bottom: 4px; }
-.intro-grid .profile-email { font-size: 16px; }
+.intro-grid .profile-role { margin-bottom: 4px; }
+.intro-grid .profile-email { margin: 0; }
+.intro-grid .profile-role, .intro-grid .profile-email, .biography { font-family: inherit; font-size: 17px; font-weight: 400; line-height: 1.7; color: var(--text); }
 .intro-grid .profile-links { gap: 8px 18px; margin-top: 14px; font-size: 15px; }
 .biography { border: 0; padding: 0; font-size: 17px; line-height: 1.7; }
 .biography p { margin: 0 0 12px; }
-.biography p:last-child { margin-bottom: 0; color: var(--muted); font-size: 16px; }
+.biography p:last-child { margin-bottom: 0; }
 .biography ul { margin: 0 0 12px; padding-left: 19px; }
 .biography li { margin: 3px 0; }
 .academic-content { padding-top: 32px; }
@@ -21,8 +22,6 @@ body { border: 0; background: var(--background); font-size: 16px; line-height: 1
 .profile-photo { width: 132px; height: 132px; outline: none; border: 0; box-shadow: none; }
 h1 { font: 400 40px/1.15 Georgia, serif; color: #163d59; letter-spacing: -1.2px; background: none; }
 .profile-heading { margin-bottom: 12px; }
-.profile-role { color: #405a6f; }
-.profile-email { color: #526475; }
 .profile-links { gap: 8px 17px; margin-top: 16px; font-size: 13px; }
 .profile-links i { font-size: 18px; }
 .academic-content > p { margin-bottom: 14px; }
