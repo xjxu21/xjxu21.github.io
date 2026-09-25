@@ -162,11 +162,11 @@ Conference on Empirical Methods in Natural Language Processing(EMNLP), Main
 ## Experience
 
 <ul class="experience-list">
-  <li><img class="experience-logo" src="{{ '/images/experience/alaya.jpg' | relative_url }}" alt="Alaya Lab logo" width="104" height="70" loading="lazy"><div><strong>Alaya Lab</strong><span>Manager: Dr. Kaipeng Zhang</span></div><time>2025 - present</time></li>
-  <li><img class="experience-logo" src="{{ '/images/experience/NTU.png' | relative_url }}" alt="Nanyang Technological University logo" width="104" height="70" loading="lazy"><div><strong>Nanyang Technological University</strong><span>Advisor: Prof. Chenyang Si and Prof. Ziwei Liu</span></div><time>2023</time></li>
-  <li><img class="experience-logo" src="{{ '/images/experience/tenecnt.png' | relative_url }}" alt="Tencent AI Lab logo" width="104" height="70" loading="lazy"><div><strong>Tencent AI Lab</strong><span>Manager: Dr. Linchao Bao</span></div><time>2022</time></li>
-  <li><img class="experience-logo" src="{{ '/images/experience/tsinghua.png' | relative_url }}" alt="Tsinghua University logo" width="104" height="70" loading="lazy"><div><strong>Tsinghua University</strong><span>Advisor: Prof. Hang Zhao</span></div><time>2021</time></li>
-  <li><img class="experience-logo" src="{{ '/images/experience/WeRide_logo.png' | relative_url }}" alt="WeRide logo" width="104" height="70" loading="lazy"><div><strong>WeRide.ai</strong><span>Manager: Dr. Xiang Guo</span></div><time>2018 - 2020</time></li>
+  <li><img class="experience-logo" src="{{ '/images/experience/alaya.jpg' | relative_url }}" alt="Alaya Lab logo" width="104" height="70" loading="lazy"><div><strong>Alaya Lab</strong><span>Manager: Dr. <a href="https://kpzhang93.github.io/">Kaipeng Zhang</a></span></div><time>2025 - present</time></li>
+  <li><img class="experience-logo" src="{{ '/images/experience/NTU.png' | relative_url }}" alt="Nanyang Technological University logo" width="104" height="70" loading="lazy"><div><strong>Nanyang Technological University</strong><span>Advisor: Prof. <a href="https://chenyangsi.top/">Chenyang Si</a> and Prof. <a href="https://liuziwei7.github.io/">Ziwei Liu</a></span></div><time>2023</time></li>
+  <li><img class="experience-logo" src="{{ '/images/experience/tenecnt.png' | relative_url }}" alt="Tencent AI Lab logo" width="104" height="70" loading="lazy"><div><strong>Tencent AI Lab</strong><span>Manager: Dr. <a href="https://linchaobao.github.io/">Linchao Bao</a></span></div><time>2022</time></li>
+  <li><img class="experience-logo" src="{{ '/images/experience/tsinghua.png' | relative_url }}" alt="Tsinghua University logo" width="104" height="70" loading="lazy"><div><strong>Tsinghua University</strong><span>Advisor: Prof. <a href="https://hangzhaomit.github.io/">Hang Zhao</a></span></div><time>2021</time></li>
+  <li><img class="experience-logo" src="{{ '/images/experience/WeRide_logo.png' | relative_url }}" alt="WeRide logo" width="104" height="70" loading="lazy"><div><strong>WeRide.ai</strong><span>Manager: Dr. <a href="https://scholar.google.com/citations?user=NZj2MnkAAAAJ">Xiang Guo</a></span></div><time>2018 - 2020</time></li>
 </ul>
 
 ## Awards
