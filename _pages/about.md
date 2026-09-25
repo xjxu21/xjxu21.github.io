@@ -9,9 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, this is Xiaojie Xu(徐啸捷). I am a Ph.D. student in Information Science and Technology at [The University of Tokyo](https://www.i.u-tokyo.ac.jp/index_e.shtml).
-
-Recently, my research focuses on:
+Hi, this is Xiaojie Xu(徐啸捷). Recently, my research focuses on:
 
 - [Interactive World Models](#interactive-world-models)
 - [Multimodal Understanding and Generation](#multimodal-understanding-and-generation)
