@@ -21,7 +21,7 @@ body { border: 0; background: var(--background); font-size: 16px; line-height: 1
 .research-focus { margin: 24px 0 20px; padding: 18px 22px; background: #eef3f7; border-left: 3px solid #7ba0bb; border-radius: 0 8px 8px 0; }
 .research-focus p { margin-bottom: 10px; }
 .research-focus ul { margin-bottom: 0; }
-.collaboration-note { border-top: 1px solid var(--line); padding-top: 18px; }
+.collaboration-note { border-top: 1px solid var(--line); margin-top: 16px; padding-top: 14px; }
 .academic-content { padding-top: 32px; }
 .profile { border: 0; padding: 0 0 30px; margin: 0 0 28px; gap: 32px; background: transparent; border-radius: 0; }
 .profile-photo { width: 132px; height: 132px; outline: none; border: 0; box-shadow: none; }

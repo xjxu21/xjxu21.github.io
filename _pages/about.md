@@ -22,11 +22,11 @@ Recently, my research focuses on:
 - Interactive World Models
 - Multimodal Understanding and Generation
 
-</div>
-
 <div class="collaboration-note" markdown="1">
 
 I am open to collaboration and discussion. Feel free to contact me via email or WeChat.
+
+</div>
 
 </div>
 
