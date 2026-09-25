@@ -71,7 +71,7 @@ h2::after { display: none; }
 .awards-list span { display: inline; margin-top: 0; }
 .awards-list span::before { content: ", "; }
 .experience-list time { color: var(--muted); font-size: 14px; white-space: nowrap; }
-.awards-list li { padding: 14px 18px; margin: 0 0 8px; border-radius: 6px; background: #eef3f7; }
+.awards-list li { padding: 14px 18px; margin: 0 0 8px; border-radius: 6px; background: transparent; }
 .section-navigation { position: fixed; left: calc(50% + 462px); top: 160px; display: flex; flex-direction: column; gap: 4px; border-left: 1px solid #d9e4ec; padding-left: 10px; z-index: 5; }
 .section-navigation a { padding: 7px 12px; font-size: 14px; color: var(--muted); border-radius: 5px; }
 .section-navigation a[aria-current] { color: #176190; background: #e7eff5; font-weight: 600; }
