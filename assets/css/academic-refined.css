@@ -11,8 +11,8 @@ body { border: 0; background: var(--background); font-size: 16px; line-height: 1
 .intro-grid .profile-role { margin-bottom: 4px; }
 .intro-grid .profile-email { margin: 0; }
 .intro-grid .profile-role, .intro-grid .profile-email, .biography { font-family: inherit; font-size: 17px; font-weight: 400; line-height: 1.7; color: var(--text); }
-.profile-contact { grid-column: 1 / -1; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px 24px; padding: 13px 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
-.intro-grid .profile-links { gap: 8px 18px; margin-top: 0; font-size: 15px; }
+.profile-contact { grid-column: 1 / -1; display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 10px 24px; padding: 13px 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); text-align: center; }
+.intro-grid .profile-links { gap: 8px 18px; margin-top: 0; font-size: 15px; justify-content: center; }
 .biography { border: 0; padding: 0; font-size: 17px; line-height: 1.6; }
 .biography p { margin: 0 0 14px; }
 .biography p:last-child { margin-bottom: 0; }
