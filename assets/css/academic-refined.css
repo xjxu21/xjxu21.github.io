@@ -1,0 +1,62 @@
+/* Selected design A: balanced academic layout. */
+:root { --background: #fcfbf8; --text: #293b4a; --muted: #526475; --line: #e0e5e8; }
+body { border: 0; background: var(--background); font-size: 15px; line-height: 1.75; }
+.academic-page { max-width: 1060px; padding: 48px 32px 32px; }
+.profile { border: 0; padding: 0 0 30px; margin: 0 0 28px; gap: 32px; background: transparent; border-radius: 0; }
+.profile-photo { width: 132px; height: 132px; outline: none; border: 0; box-shadow: none; }
+h1 { font: 400 40px/1.15 Georgia, serif; color: #163d59; letter-spacing: -1.2px; background: none; }
+.profile-heading { margin-bottom: 12px; }
+.profile-role { color: #405a6f; }
+.profile-email { color: #526475; }
+.profile-links { gap: 8px 17px; margin-top: 16px; font-size: 13px; }
+.profile-links i { font-size: 18px; }
+.academic-content > p { margin-bottom: 14px; }
+.academic-content > ul:not(.education-list) { margin: 10px 0 18px; }
+.academic-content > ul:not(.education-list) li { margin: 3px 0; }
+h2 { font: 600 23px/1.35 -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; margin: 38px 0 18px; letter-spacing: -.4px; }
+h2::after { display: none; }
+.publication-note { margin: 0 0 24px; font-size: 12px; color: #617180; }
+.academic-content h3 { font: 600 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; letter-spacing: 0; color: #176190; margin: 30px 0 22px; padding-bottom: 10px; border-bottom: 1px solid #cedbe4; scroll-margin-top: 20px; }
+.publication-grid { min-width: 0; }
+.paper-box { grid-template-columns: 280px minmax(0,1fr); gap: 28px; align-items: start; padding: 0 0 28px; margin: 0 0 28px; }
+.paper-box-image { width: 100%; max-width: none; padding: 0; }
+.paper-box-image > div { display: block; }
+.paper-box-image .badge { display: none; }
+.paper-box-image img { display: block; width: 100%; height: auto; object-fit: contain; background: #fff; border-radius: 5px; border: 1px solid #e3e7eb; }
+.paper-box-text { font-size: 14px; line-height: 1.65; color: #4a5b69; }
+.paper-box-text > p { margin: 0 0 9px; }
+.paper-box-text > p:first-child { font: 600 18px/1.45 -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; letter-spacing: -.15px; margin-bottom: 11px; }
+.paper-box-text > p:first-child a { color: #213c51; }
+.paper-box-text > p:first-child a:hover { color: var(--blue); }
+.paper-box-text > p:nth-child(3) { font-size: 12px; color: #567086; }
+.paper-box-text strong { color: #1c3447; font-weight: 650; }
+.paper-links { gap: 14px; margin-top: 12px; font-size: 13px; line-height: 1.5; }
+.education-list li { gap: 22px; padding: 18px 0; }
+.education-list strong { font-size: 14px; }
+.school-logo { width: 88px; height: 58px; }
+.academic-footer { margin-top: 28px; }
+/* A: one stable text column, generous images, no competing ornaments. */
+.profile { border-bottom: 1px solid #e0e5e8; }
+h2 { display: flex; align-items: center; gap: 14px; }
+h2::before { content: ""; width: 5px; height: 21px; border-radius: 2px; background: #e5be42; }
+.paper-box:last-child { border-bottom: 0; padding-bottom: 0; }
+
+@media(max-width:800px) {
+  .academic-page { padding: 36px 24px; }
+  .paper-box { grid-template-columns: 240px minmax(0,1fr); gap: 24px; }
+}
+@media(max-width:580px) {
+  .academic-page { padding: 28px 20px; }
+  .profile { flex-direction: column; align-items: flex-start; gap: 22px; text-align: left; }
+  .profile-links { justify-content: flex-start; }
+  h1 { font-size: 36px; }
+  .paper-box { display: flex; flex-direction: column; gap: 20px; align-items: stretch; }
+  .paper-box-image { width: 100%; max-width: 360px; }
+  .education-list li { gap: 16px; }
+  .school-logo { width: 68px; }
+}
+@media print {
+  body { background: #fff; }
+  .academic-page { max-width: none; padding: 0; }
+  .paper-box { break-inside: avoid; }
+}

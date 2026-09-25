@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% include seo.html %}
+    <meta name="description" content="{{ site.description | escape }}">
+    <link rel="icon" type="image/png" href="{{ '/images/favicon-32x32.png' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url }}?v=20260925-editorial">
+    <link rel="stylesheet" href="{{ '/assets/css/academic-refined.css' | relative_url }}?v=20260925-a">
+    <link rel="stylesheet" href="{{ '/assets/css/academicons.css' | relative_url }}">
+  </head>
+  <body>
+    <a class="skip-link" href="#about-me">Skip to content</a>
+    <div class="academic-page">
+      <header class="profile">
+        <img class="profile-photo" src="{{ site.author.avatar | relative_url }}" alt="{{ site.author.name | escape }}" width="200" height="200">
+        <div class="profile-info">
+          <div class="profile-heading">
+            <h1>{{ site.author.name }}</h1>
+          </div>
+          <p class="profile-role">{{ site.description }}</p>
+          <a class="profile-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+          <nav class="profile-links" aria-label="Academic and social profiles">
+            <a href="{{ site.author.googlescholar }}"><i class="ai ai-google-scholar" aria-hidden="true"></i><span>Google Scholar</span></a>
+            <a href="https://github.com/{{ site.author.github }}"><i class="brand-icon icon-github" aria-hidden="true"></i><span>GitHub</span></a>
+            <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}"><i class="brand-icon icon-linkedin" aria-hidden="true"></i><span>LinkedIn</span></a>
+            <a href="{{ '/images/wechat-qr.jpg' | relative_url }}" aria-label="WeChat — view QR code"><i class="brand-icon icon-wechat" aria-hidden="true"></i><span>WeChat</span></a>
+            <a href="https://www.instagram.com/{{ site.author.instagram }}"><i class="brand-icon icon-instagram" aria-hidden="true"></i><span>Instagram</span></a>
+          </nav>
+        </div>
+      </header>
+      <main id="about-me" class="academic-content">
+        {{ content }}
+      </main>
+      <footer class="academic-footer">© {{ site.time | date: '%Y' }} {{ site.author.name }}</footer>
+    </div>
+  </body>
+</html>
