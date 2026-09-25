@@ -36,7 +36,7 @@ h2::after { display: none; }
 .paper-box:nth-of-type(odd) { background: #e7eff5; }
 .paper-box-image { width: 100%; max-width: none; padding: 0; align-self: center; }
 .paper-box-image > div { display: block; position: relative; width: fit-content; max-width: 100%; margin: 0 auto; padding: 0; }
-.paper-box-image .badge { display: inline-block; position: absolute; z-index: 1; top: 0; left: 0; max-width: 100%; padding: 3px 8px; border: 0; border-radius: 3px; background: #176190; color: #fff; font-size: 11px; line-height: 1.5; font-weight: 600; }
+.paper-box-image .badge { display: inline-block; position: absolute; z-index: 1; top: 0; left: 0; transform: translate(calc(-.75em - 3px), -50%); max-width: 100%; padding: 3px 8px; border: 0; border-radius: 3px; background: #176190; color: #fff; font-size: 11px; line-height: 1.5; font-weight: 600; }
 .paper-box-image img { display: block; width: auto; max-width: 100%; height: auto; max-height: 185px; margin: 0 auto; object-fit: contain; background: transparent; border-radius: 0; border: 0; }
 .paper-box-text { font-size: 16px; line-height: 1.6; color: #4a5b69; }
 .paper-box-text > p { margin: 0 0 7px; }
