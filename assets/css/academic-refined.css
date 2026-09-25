@@ -55,6 +55,18 @@ h2::after { display: none; }
 h2 { display: flex; align-items: center; gap: 14px; }
 h2::before { display: none; }
 .paper-box:last-child { border-bottom: 0; }
+.publication-tabs { display: flex; gap: 8px; padding: 6px; margin: 20px 0; background: #e7edf2; border-radius: 10px; scroll-margin-top: 20px; }
+.publication-tabs button { flex: 1; display: flex; align-items: center; justify-content: center; gap: 10px; border: 0; border-radius: 7px; padding: 13px 14px; background: transparent; color: #405a6f; font: 600 16px/1.4 -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; cursor: pointer; transition: background .2s, color .2s; }
+.publication-tabs button:hover { background: #dbe6ee; }
+.publication-tabs button[aria-selected="true"] { background: #176190; color: white; box-shadow: 0 2px 5px #163d591a; }
+.publication-tabs button:focus-visible { outline: 3px solid #d8af32; outline-offset: 3px; }
+.publication-count { font-size: 12px; padding: 2px 7px; border-radius: 12px; background: #ffffff30; }
+.publication-panel[hidden] { display: none; }
+.publication-panel:not([hidden]) { animation: publication-reveal .22s ease-out; }
+@keyframes publication-reveal { from { opacity: .3; transform: translateY(5px); } to { opacity: 1; transform: translateY(0); } }
+@media (prefers-reduced-motion: reduce) { .publication-panel:not([hidden]) { animation: none; } .publication-tabs button { transition: none; } }
+@media(max-width:580px) { .publication-tabs { flex-direction: column; } .publication-tabs button { justify-content: flex-start; } }
+@media print { .publication-tabs { display: none; } .publication-panel[hidden] { display: block; } }
 
 @media(max-width:800px) {
   .biography { border-left: 0; padding-left: 0; }
