@@ -11,7 +11,7 @@ redirect_from:
 
 Hi, this is Xiaojie Xu(徐啸捷). I am a Ph.D. student at [The University of Tokyo](https://www.i.u-tokyo.ac.jp/index_e.shtml).
 
-Prior, I received my M.Phil. and B.Eng. degree from [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) and [University of Science and Technology of China](https://www.ustc.edu.cn/), respectively.
+Previously, I received my M.Phil. and B.Eng. degrees from [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) and [University of Science and Technology of China](https://www.ustc.edu.cn/), respectively.
 
 I also did research with [Alaya Lab Tokyo](https://alayalab.ai/), [Tencent AI Lab](https://www.aiia-ai.org/h-col-184.html), [NTU MMLab](https://www.mmlab-ntu.com/) and [Tsinghua IIIS](https://iiis.tsinghua.edu.cn/en/).
 
@@ -37,7 +37,7 @@ I am open to collaboration and discussion. Feel free to contact me via email or 
 
 ### Interactive World Models
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report 2026</div><img src='{{ "/images/worldrover.jpg" | relative_url }}' alt="WorldRover: A Scalable Synthetic Video Data Engine for World Exploration with Rich Annotations overview" loading="lazy" width="200" height="128"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report 2026</div><img src='{{ "/images/optimized/worldrover.webp" | relative_url }}' alt="WorldRover: A Scalable Synthetic Video Data Engine for World Exploration with Rich Annotations overview" loading="lazy" width="200" height="128"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [WorldRover: A Scalable Synthetic Video Data Engine for World Exploration with Rich Annotations](https://alayalab.github.io/WorldRover/)
@@ -51,7 +51,7 @@ Tech Report 2026
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report 2026</div><img src='{{ "/images/worldmark.jpg" | relative_url }}' alt="WorldMark: A Unified Benchmark Suite for Interactive Video World Models overview" loading="lazy" width="200" height="128"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report 2026</div><img src='{{ "/images/optimized/worldmark.webp" | relative_url }}' alt="WorldMark: A Unified Benchmark Suite for Interactive Video World Models overview" loading="lazy" width="200" height="128"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [WorldMark: A Unified Benchmark Suite for Interactive Video World Models](https://alayalab.github.io/WorldMark/)
@@ -65,7 +65,7 @@ Tech Report 2026
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report 2026</div><img src='{{ "/images/alayaworld.jpg" | relative_url }}' alt="AlayaWorld: Long-Horizon and Playable Video World Generation overview" loading="lazy" width="200" height="128"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report 2026</div><img src='{{ "/images/optimized/alayaworld.webp" | relative_url }}' alt="AlayaWorld: Long-Horizon and Playable Video World Generation overview" loading="lazy" width="200" height="128"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AlayaWorld: Long-Horizon and Playable Video World Generation](https://arxiv.org/abs/2607.06291)
@@ -79,7 +79,7 @@ Tech Report 2026
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='{{ "/images/yume15.png" | relative_url }}' alt="Yume-1.5: A Text-Controlled Interactive World Generation Model overview" loading="lazy" width="200" height="128"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='{{ "/images/optimized/yume15.webp" | relative_url }}' alt="Yume-1.5: A Text-Controlled Interactive World Generation Model overview" loading="lazy" width="200" height="128"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Yume-1.5: A Text-Controlled Interactive World Generation Model](https://stdstu12.github.io/YUME-Project/)
@@ -93,7 +93,7 @@ Conference on Computer Vision and Pattern Recognition (CVPR), 2026
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-PAMI 2025</div><img src='{{ "/images/vbench.png" | relative_url }}' alt="VBench++ video generation benchmark overview" loading="lazy" width="200" height="128"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-PAMI 2025</div><img src='{{ "/images/optimized/vbench.webp" | relative_url }}' alt="VBench++ video generation benchmark overview" loading="lazy" width="200" height="128"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models](https://arxiv.org/abs/2411.13503)
@@ -109,7 +109,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence(T-PAMI)
 
 ### Multimodal Understanding and Generation
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='{{ "/images/posta.png" | relative_url }}' alt="POSTA customized artistic poster generation examples" loading="lazy" width="200" height="128"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='{{ "/images/optimized/posta.webp" | relative_url }}' alt="POSTA customized artistic poster generation examples" loading="lazy" width="200" height="128"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [POSTA: A Go-to Framework for Customized Artistic Poster Generation](https://haoyuchen.com/POSTA)
@@ -123,7 +123,7 @@ Conference on Computer Vision and Pattern Recognition(CVPR)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025, Findings</div><img src='{{ "/images/pregenie_2.png" | relative_url }}' alt="PreGenie visual presentation generation framework" loading="lazy" width="200" height="128"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025, Findings</div><img src='{{ "/images/optimized/pregenie_2.webp" | relative_url }}' alt="PreGenie visual presentation generation framework" loading="lazy" width="200" height="128"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PreGenie: An Agentic Framework for High-quality Visual Presentation Generation](https://arxiv.org/abs/2505.21660)
@@ -137,7 +137,7 @@ Conference on Empirical Methods in Natural Language Processing(EMNLP), Findings
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025, Main</div><img src='{{ "/images/audio.png" | relative_url }}' alt="Multi-agent long-video audio synthesis framework" loading="lazy" width="200" height="128"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025, Main</div><img src='{{ "/images/optimized/audio.webp" | relative_url }}' alt="Multi-agent long-video audio synthesis framework" loading="lazy" width="200" height="128"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Long-Video Audio Synthesis with Multi-Agent Collaboration](https://arxiv.org/abs/2503.10719)
