@@ -158,8 +158,8 @@ Conference on Empirical Methods in Natural Language Processing(EMNLP), Main
 
 <ul class="education-list">
   <li><img class="school-logo" src='{{ "/images/utokyo3.png" | relative_url }}' alt="The University of Tokyo logo" loading="lazy"><div><strong>The University of Tokyo</strong><span class="degree">Ph.D. in Information and Communication Engineering · with Prof. <a href="https://www.ee.t.u-tokyo.ac.jp/en/staff/yamasaki-toshihiko/">Toshihiko Yamasaki</a>.</span></div></li>
-  <li><img class="school-logo" src='{{ "/images/hkust3.png" | relative_url }}' alt="HKUST logo" loading="lazy"><div><strong>The Hong Kong University of Science and Technology</strong><span class="degree">M.Phil. in Artificial Intelligence · with Prof. <a href="https://www.yingcong.me/">Ying-Cong Chen</a></span></div></li>
-  <li><img class="school-logo" src='{{ "/images/ustc3.png" | relative_url }}' alt="USTC logo" loading="lazy"><div><strong>University of Science and Technology of China</strong><span class="degree">B.Eng. in Automation · with Prof. <a href="http://staff.ustc.edu.cn/~lgliu/">Ligang Liu</a></span></div></li>
+  <li><img class="school-logo" src='{{ "/images/hkust3.png" | relative_url }}' alt="HKUST logo" loading="lazy"><div><strong>The Hong Kong University<br>of Science and Technology</strong><span class="degree">M.Phil. in Artificial Intelligence · with Prof. <a href="https://www.yingcong.me/">Ying-Cong Chen</a></span></div></li>
+  <li><img class="school-logo" src='{{ "/images/ustc3.png" | relative_url }}' alt="USTC logo" loading="lazy"><div><strong>University of Science<br>and Technology of China</strong><span class="degree">B.Eng. in Automation · with Prof. <a href="http://staff.ustc.edu.cn/~lgliu/">Ligang Liu</a></span></div></li>
 </ul>
 
 </div>
