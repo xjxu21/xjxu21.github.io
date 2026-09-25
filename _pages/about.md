@@ -151,13 +151,19 @@ Conference on Empirical Methods in Natural Language Processing(EMNLP), Main
 </div>
 </div>
 
+<div class="history-columns" markdown="1">
+<div class="history-column" markdown="1">
+
 ## Education
 
 <ul class="education-list">
-  <li><img class="school-logo" src='{{ "/images/utokyo3.png" | relative_url }}' alt="The University of Tokyo logo" loading="lazy"><div><strong><a href="https://www.u-tokyo.ac.jp">The University of Tokyo</a></strong><span class="degree">Doctor of Philosophy in Information and Communication Engineering · with Prof. <a href="https://www.ee.t.u-tokyo.ac.jp/en/staff/yamasaki-toshihiko/">Toshihiko Yamasaki</a>.</span></div></li>
-  <li><img class="school-logo" src='{{ "/images/hkust3.png" | relative_url }}' alt="HKUST logo" loading="lazy"><div><strong><a href="https://hkust.edu.hk/">The Hong Kong University of Science and Technology</a></strong><span class="degree">Master of Philosophy in Artificial Intelligence · with Prof. <a href="https://www.yingcong.me/">Ying-Cong Chen</a></span></div></li>
-  <li><img class="school-logo" src='{{ "/images/ustc3.png" | relative_url }}' alt="USTC logo" loading="lazy"><div><strong><a href="https://www.ustc.edu.cn/">University of Science and Technology of China</a></strong><span class="degree">Bachelor of Engineering in Automation · with Prof. <a href="http://staff.ustc.edu.cn/~lgliu/">Ligang Liu</a></span></div></li>
+  <li><img class="school-logo" src='{{ "/images/utokyo3.png" | relative_url }}' alt="The University of Tokyo logo" loading="lazy"><div><strong><a href="https://www.u-tokyo.ac.jp">The University of Tokyo</a></strong><span class="degree">Ph.D. in Information and Communication Engineering · with Prof. <a href="https://www.ee.t.u-tokyo.ac.jp/en/staff/yamasaki-toshihiko/">Toshihiko Yamasaki</a>.</span></div></li>
+  <li><img class="school-logo" src='{{ "/images/hkust3.png" | relative_url }}' alt="HKUST logo" loading="lazy"><div><strong><a href="https://hkust.edu.hk/">The Hong Kong University of Science and Technology</a></strong><span class="degree">M.Phil. in Artificial Intelligence · with Prof. <a href="https://www.yingcong.me/">Ying-Cong Chen</a></span></div></li>
+  <li><img class="school-logo" src='{{ "/images/ustc3.png" | relative_url }}' alt="USTC logo" loading="lazy"><div><strong><a href="https://www.ustc.edu.cn/">University of Science and Technology of China</a></strong><span class="degree">B.Eng. in Automation · with Prof. <a href="http://staff.ustc.edu.cn/~lgliu/">Ligang Liu</a></span></div></li>
 </ul>
+
+</div>
+<div class="history-column" markdown="1">
 
 ## Experience
 
@@ -168,6 +174,9 @@ Conference on Empirical Methods in Natural Language Processing(EMNLP), Main
   <li><img class="experience-logo" src="{{ '/images/experience/tsinghua.png' | relative_url }}" alt="Tsinghua University logo" width="104" height="70" loading="lazy"><div><strong>Tsinghua University</strong><span>with Prof. <a href="https://hangzhaomit.github.io/">Hang Zhao</a></span></div><time>2021</time></li>
   <li><img class="experience-logo" src="{{ '/images/experience/WeRide_logo.png' | relative_url }}" alt="WeRide logo" width="104" height="70" loading="lazy"><div><strong>WeRide.ai</strong><span>with Dr. <a href="https://scholar.google.com/citations?user=NZj2MnkAAAAJ">Xiang Guo</a></span></div><time>2018 - 2020</time></li>
 </ul>
+
+</div>
+</div>
 
 ## Awards
 
