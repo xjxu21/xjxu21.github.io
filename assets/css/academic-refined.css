@@ -77,6 +77,7 @@ h2::after { display: none; }
 .history-column h2 { margin-top: 0; }
 .history-columns .education-list li, .history-columns .experience-list li { grid-template-columns: 68px minmax(0, 1fr); align-items: center; gap: 3px 14px; padding: 16px 0; }
 .history-columns .school-logo, .history-columns .experience-logo { width: 64px; height: 50px; }
+.history-columns .school-logo { width: 76px; height: 60px; }
 .history-columns .experience-logo { grid-row: auto; }
 .history-columns .experience-list time { grid-column: 2; }
 .history-columns .education-list strong, .history-columns .experience-list strong { line-height: 1.5; }
