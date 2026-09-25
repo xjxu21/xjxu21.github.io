@@ -164,7 +164,7 @@ Conference on Empirical Methods in Natural Language Processing(EMNLP), Main
 <ul class="experience-list">
   <li><div><strong>Alaya Lab</strong><span>Manager: Dr. Kaipeng Zhang</span></div><time>2025 - present</time></li>
   <li><div><strong>Nanyang Technological University</strong><span>Advisor: Prof. Chenyang Si and Prof. Ziwei Liu</span></div><time>2023</time></li>
-  <li><div><strong>Tencent AI Lab</strong><span>Manager: Linchao Bao</span></div><time>2022</time></li>
+  <li><div><strong>Tencent AI Lab</strong><span>Manager: Dr. Linchao Bao</span></div><time>2022</time></li>
   <li><div><strong>Tsinghua University</strong><span>Advisor: Prof. Hang Zhao</span></div><time>2021</time></li>
   <li><div><strong>WeRide.ai</strong><span>Manager: Dr. Xiang Guo</span></div><time>2018 - 2020</time></li>
 </ul>
