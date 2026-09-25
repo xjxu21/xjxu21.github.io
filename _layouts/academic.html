@@ -7,12 +7,19 @@
     <meta name="description" content="{{ site.description | escape }}">
     <link rel="icon" type="image/png" href="{{ '/images/favicon-32x32.png' | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url }}?v=20260925-editorial">
-    <link rel="stylesheet" href="{{ '/assets/css/academic-refined.css' | relative_url }}?v=20260926-collaboration-box">
+    <link rel="stylesheet" href="{{ '/assets/css/academic-refined.css' | relative_url }}?v=20260926-sections">
+    <script defer src="{{ '/assets/js/section-navigation.js' | relative_url }}"></script>
     <script defer src="{{ '/assets/js/publication-tabs.js' | relative_url }}?v=20260926-preload"></script>
     <link rel="stylesheet" href="{{ '/assets/css/academicons.css' | relative_url }}">
   </head>
   <body>
     <a class="skip-link" href="#about-me">Skip to content</a>
+    <nav class="section-navigation" aria-label="Page sections">
+      <a href="#about-me" aria-current="location">Bio</a>
+      <a href="#selected-publications">Publications</a>
+      <a href="#experience">Experience</a>
+      <a href="#awards">Awards</a>
+    </nav>
     <div class="academic-page">
       {% assign sections = content | split: '<!-- publications -->' %}
       <div class="intro-grid" id="about-me">

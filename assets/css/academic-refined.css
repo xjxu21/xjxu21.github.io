@@ -55,6 +55,25 @@ h2::after { display: none; }
 .education-list strong { font-size: 16px; }
 .school-logo { width: 88px; height: 58px; }
 .academic-footer { margin-top: 28px; }
+.experience-list, .awards-list { list-style: none; padding: 0; margin: 0; }
+.experience-list li { display: flex; justify-content: space-between; align-items: baseline; gap: 24px; padding: 15px 0 15px 20px; margin: 0; border-left: 2px solid #d9e4ec; position: relative; }
+.experience-list li::before { content: ''; position: absolute; width: 8px; height: 8px; border-radius: 50%; background: #176190; left: -5px; top: 25px; }
+.experience-list strong, .awards-list strong { font-weight: 600; color: #213c51; }
+.experience-list span, .awards-list span { display: block; color: var(--muted); margin-top: 3px; font-size: 15px; }
+.experience-list time { color: var(--muted); font-size: 14px; white-space: nowrap; }
+.awards-list li { padding: 14px 18px; margin: 0 0 8px; border-radius: 6px; background: #eef3f7; }
+.section-navigation { position: fixed; left: calc(50% + 462px); top: 160px; display: flex; flex-direction: column; gap: 4px; border-left: 1px solid #d9e4ec; padding-left: 10px; z-index: 5; }
+.section-navigation a { padding: 7px 12px; font-size: 14px; color: var(--muted); border-radius: 5px; }
+.section-navigation a[aria-current] { color: #176190; background: #e7eff5; font-weight: 600; }
+#about-me, #selected-publications, #experience, #awards { scroll-margin-top: 78px; }
+@media(max-width:1220px) {
+  .section-navigation { position: sticky; left: auto; top: 0; flex-direction: row; justify-content: center; flex-wrap: wrap; gap: 4px; padding: 8px 12px; border: 0; border-bottom: 1px solid var(--line); background: #fcfbf8f5; }
+}
+@media(max-width:580px) {
+  .experience-list li { flex-direction: column; gap: 3px; }
+  .section-navigation a { font-size: 13px; padding: 6px 9px; }
+}
+@media print { .section-navigation { display: none; } }
 /* A: one stable text column, generous images, no competing ornaments. */
 .profile { border-bottom: 1px solid #e0e5e8; }
 h2 { display: flex; align-items: center; gap: 14px; }

@@ -158,3 +158,23 @@ Conference on Empirical Methods in Natural Language Processing(EMNLP), Main
   <li><img class="school-logo" src='{{ "/images/hkust3.png" | relative_url }}' alt="HKUST logo" loading="lazy"><div><strong><a href="https://hkust.edu.hk/">The Hong Kong University of Science and Technology</a></strong><span class="degree">Master of Philosophy in Artificial Intelligence · with Prof. <a href="https://www.yingcong.me/">Ying-Cong Chen</a></span></div></li>
   <li><img class="school-logo" src='{{ "/images/ustc3.png" | relative_url }}' alt="USTC logo" loading="lazy"><div><strong><a href="https://www.ustc.edu.cn/">University of Science and Technology of China</a></strong><span class="degree">Bachelor of Engineering in Automation · with Prof. <a href="http://staff.ustc.edu.cn/~lgliu/">Ligang Liu</a></span></div></li>
 </ul>
+
+## Experience
+
+<ul class="experience-list">
+  <li><div><strong>Alaya Lab</strong><span>Manager: Dr. Kaipeng Zhang</span></div><time>2025 - present</time></li>
+  <li><div><strong>Nanyang Technological University</strong><span>Advisor: Prof. Chenyang Si and Prof. Ziwei Liu</span></div><time>2023</time></li>
+  <li><div><strong>Tencent AI Lab</strong><span>Manager: Linchao Bao</span></div><time>2022</time></li>
+  <li><div><strong>Tsinghua University</strong><span>Advisor: Prof. Hang Zhao</span></div><time>2021</time></li>
+  <li><div><strong>WeRide.ai</strong><span>Manager: Dr. Xiang Guo</span></div><time>2018 - 2020</time></li>
+</ul>
+
+## Awards
+
+<ul class="awards-list">
+  <li><strong>BOOST NAIS Fellowship</strong> (4 PhD students university-wide)<span>The University of Tokyo</span></li>
+  <li><strong>Full Postgraduate Scholarship (PGS)</strong><span>The Hong Kong University of Science and Technology</span></li>
+  <li><strong>Outstanding Graduate</strong><span>University of Science and Technology of China</span></li>
+  <li><strong>Outstanding Undergraduate Student Scholarship</strong><span>University of Science and Technology of China</span></li>
+  <li><strong>First Prize in Jiangxi Province</strong><span>The Chinese Physics Olympiad (CPhO)</span></li>
+</ul>
