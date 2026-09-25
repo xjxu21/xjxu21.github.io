@@ -185,5 +185,5 @@ Conference on Empirical Methods in Natural Language Processing(EMNLP), Main
   <li><strong>Full Postgraduate Scholarship (PGS)</strong><span>The Hong Kong University of Science and Technology</span></li>
   <li><strong>Outstanding Graduate</strong><span>University of Science and Technology of China</span></li>
   <li><strong>Outstanding Undergraduate Student Scholarship</strong><span>University of Science and Technology of China</span></li>
-  <li><strong>First Prize in Jiangxi Province</strong><span>The Chinese Physics Olympiad (CPhO)</span></li>
+  <li><strong>First Prize of Chinese Physics Olympiad (CPhO) in Jiangxi Province</strong><span>Chinese Physical Society</span></li>
 </ul>
