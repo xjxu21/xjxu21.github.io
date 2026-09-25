@@ -11,14 +11,24 @@ redirect_from:
 
 Hi, this is Xiaojie Xu(徐啸捷). I am a Ph.D. student at [The University of Tokyo](https://www.i.u-tokyo.ac.jp/index_e.shtml).
 
-Prior, I received my M.Phil. and B.Eng degree from [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) and [University of Science and Technology](https://www.ustc.edu.cn/), respectively. I also did research with [Alaya Lab Tokyo](https://alayalab.ai/), [Tencent AI Lab](https://ailab.tencent.com/ailab/en/index/), [NTU MMLab](https://www.mmlab-ntu.com/) and [Tsinghua IIIS](https://iiis.tsinghua.edu.cn/en/).
+Prior, I received my M.Phil. and B.Eng degree from [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) and [University of Science and Technology](https://www.ustc.edu.cn/), respectively.
+
+I also did research with [Alaya Lab Tokyo](https://alayalab.ai/), [Tencent AI Lab](https://ailab.tencent.com/ailab/en/index/), [NTU MMLab](https://www.mmlab-ntu.com/) and [Tsinghua IIIS](https://iiis.tsinghua.edu.cn/en/).
+
+<div class="research-focus" markdown="1">
 
 Recently, my research focuses on:
 
 - Interactive World Models
 - Multimodal Understanding and Generation
 
+</div>
+
+<div class="collaboration-note" markdown="1">
+
 I am open to collaboration and discussion. Feel free to contact me via email or WeChat.
+
+</div>
 
 <!-- publications -->
 
