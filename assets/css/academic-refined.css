@@ -71,7 +71,7 @@ h2::after { display: none; }
 .awards-list span { display: inline; margin-top: 0; }
 .awards-list span::before { content: ", "; }
 .experience-list time { color: var(--muted); font-size: 14px; white-space: nowrap; }
-.awards-list li { padding: 14px 18px; margin: 0 0 8px; border-radius: 6px; background: transparent; }
+.awards-list li { padding: 6px 18px; margin: 0 0 3px; border-radius: 6px; background: transparent; }
 .history-columns { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 32px; margin-top: 30px; }
 .history-column { min-width: 0; }
 .history-column h2 { margin-top: 0; }
