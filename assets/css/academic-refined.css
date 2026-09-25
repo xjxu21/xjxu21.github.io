@@ -74,6 +74,17 @@ h2::after { display: none; }
   .section-navigation a { font-size: 13px; padding: 6px 9px; }
 }
 @media print { .section-navigation { display: none; } }
+@media(min-width:1221px) and (hover:hover) and (pointer:fine) {
+  .section-navigation { width: 38px; padding: 6px; border: 0; border-radius: 10px; transition: width .2s ease, background .2s ease; }
+  .section-navigation:hover, .section-navigation:has(a:focus-visible) { width: 144px; background: #fcfbf8f5; }
+  .section-navigation a { display: flex; align-items: center; gap: 10px; min-height: 36px; padding: 8px; overflow: hidden; white-space: nowrap; }
+  .section-navigation a::before { content: ''; flex: 0 0 8px; height: 8px; border-radius: 50%; background: #b1c1cd; }
+  .section-navigation a[aria-current]::before { background: #176190; }
+  .section-navigation a span { opacity: 0; transition: opacity .15s ease; }
+  .section-navigation:hover a span, .section-navigation:has(a:focus-visible) a span { opacity: 1; }
+  .section-navigation a:focus-visible { outline: 2px solid #176190; outline-offset: 1px; }
+}
+@media(prefers-reduced-motion:reduce) { .section-navigation, .section-navigation a span { transition: none; } }
 /* A: one stable text column, generous images, no competing ornaments. */
 .profile { border-bottom: 1px solid #e0e5e8; }
 h2 { display: flex; align-items: center; gap: 14px; }
