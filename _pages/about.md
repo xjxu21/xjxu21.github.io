@@ -32,7 +32,7 @@ I am open to collaboration and discussion. Feel free to contact me via email or 
 
 <!-- publications -->
 
-## Selected Publications
+## Recent Publications
 
 
 ### Interactive World Models
