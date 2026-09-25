@@ -30,11 +30,6 @@
     button.setAttribute('role', 'tab');
     button.setAttribute('aria-controls', panel.id);
     button.textContent = heading.textContent;
-    const count = document.createElement('span');
-    count.className = 'publication-count';
-    count.textContent = panel.children.length;
-    count.setAttribute('aria-hidden', 'true');
-    button.append(count);
     tablist.append(button);
     heading.remove();
     return panel;
