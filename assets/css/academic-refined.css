@@ -61,6 +61,7 @@ h2::after { display: none; }
 .experience-logo[src$="/alaya.jpg"],
 .experience-logo[src$="/tsinghua.png"],
 .experience-logo[src$="/tenecnt.png"] { mix-blend-mode: multiply; }
+.experience-logo[src$="/tenecnt.png"] { filter: brightness(1.04); }
 .experience-list strong, .awards-list strong { font-weight: 600; color: #213c51; }
 .experience-list span, .awards-list span { display: block; color: var(--muted); margin-top: 3px; font-size: 15px; }
 .experience-list time { color: var(--muted); font-size: 14px; white-space: nowrap; }
