@@ -58,6 +58,9 @@ h2::after { display: none; }
 .experience-list, .awards-list { list-style: none; padding: 0; margin: 0; }
 .experience-list li { display: grid; grid-template-columns: 104px minmax(0, 1fr) auto; align-items: center; gap: 24px; padding: 18px 0; margin: 0; border-bottom: 1px solid var(--line); }
 .experience-logo { width: 104px; height: 70px; object-fit: contain; }
+.experience-logo[src$="/alaya.jpg"],
+.experience-logo[src$="/tsinghua.png"],
+.experience-logo[src$="/tenecnt.png"] { mix-blend-mode: multiply; }
 .experience-list strong, .awards-list strong { font-weight: 600; color: #213c51; }
 .experience-list span, .awards-list span { display: block; color: var(--muted); margin-top: 3px; font-size: 15px; }
 .experience-list time { color: var(--muted); font-size: 14px; white-space: nowrap; }
