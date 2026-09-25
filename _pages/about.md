@@ -11,8 +11,8 @@ redirect_from:
 
 Hi, this is Xiaojie Xu(徐啸捷). Recently, my research focuses on:
 
-- [Interactive World Models](#interactive-world-models)
-- [Multimodal Understanding and Generation](#multimodal-understanding-and-generation)
+- Interactive World Models
+- Multimodal Understanding and Generation
 
 I am open to collaboration and discussion. Feel free to contact me via email or WeChat.
 
