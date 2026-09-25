@@ -181,7 +181,7 @@ Conference on Empirical Methods in Natural Language Processing(EMNLP), Main
 ## Awards
 
 <ul class="awards-list">
-  <li><strong><a href="https://spring-gx.adm.s.u-tokyo.ac.jp/en/boost/pdf/poster_2026B.pdf">BOOST NAIS Fellowship</a></strong> (4 recipients university-wide)<span>The University of Tokyo</span></li>
+  <li><strong><a href="https://spring-gx.adm.s.u-tokyo.ac.jp/en/boost/pdf/poster_2026B.pdf">BOOST PhD Fellowship</a></strong> (4 recipients university-wide)<span>The University of Tokyo</span></li>
   <li><strong>Full Postgraduate Scholarship (PGS)</strong><span>The Hong Kong University of Science and Technology</span></li>
   <li><strong>Outstanding Graduate</strong><span>University of Science and Technology of China</span></li>
   <li><strong>Outstanding Undergraduate Student Scholarship</strong><span>University of Science and Technology of China</span></li>
