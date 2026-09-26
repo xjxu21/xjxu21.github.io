@@ -74,6 +74,13 @@
     });
   });
   window.addEventListener('hashchange', () => fromHash(true));
+  document.querySelector('.profile-home')?.addEventListener('click', event => {
+    if (event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+    event.preventDefault();
+    history.pushState(null, '', event.currentTarget.href);
+    select(0);
+    window.scrollTo({top: 0, behavior: 'instant'});
+  });
   fromHash(ids.includes(location.hash.slice(1)));
 
   // Warm both topic panels immediately, including images in the hidden panel.
