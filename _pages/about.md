@@ -163,11 +163,11 @@ Conference on Empirical Methods in Natural Language Processing(EMNLP), Main
 </ul>
 
 </div>
-<div class="history-column" markdown="1">
+<div class="history-column experience-column" markdown="1">
 
 ## Experience
 
-<ul class="experience-list">
+<ul class="experience-list" tabindex="0" aria-label="Experience — scroll to view more">
   <li><img class="experience-logo" src="{{ '/images/experience/alaya.jpg' | relative_url }}" alt="Alaya Lab logo" width="104" height="70" loading="lazy"><div><strong>Alaya Lab Tokyo</strong><span>with Dr. <a href="https://kpzhang93.github.io/">Kaipeng Zhang</a></span></div></li>
   <li><img class="experience-logo" src="{{ '/images/experience/NTU.png' | relative_url }}" alt="Nanyang Technological University logo" width="104" height="70" loading="lazy"><div><strong>Nanyang Technological University</strong><span>with Prof. <a href="https://chenyangsi.top/">Chenyang Si</a> and Prof. <a href="https://liuziwei7.github.io/">Ziwei Liu</a></span></div></li>
   <li><img class="experience-logo" src="{{ '/images/experience/tenecnt.png' | relative_url }}" alt="Tencent AI Lab logo" width="104" height="70" loading="lazy"><div><strong>Tencent AI Lab</strong><span>with Dr. <a href="https://scholar.google.com/citations?user=2ztThPwAAAAJ">Di Kang</a> and Dr. <a href="https://linchaobao.github.io/">Linchao Bao</a></span></div></li>

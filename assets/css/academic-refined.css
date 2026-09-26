@@ -84,6 +84,12 @@ h2::after { display: none; }
 .history-columns .experience-list time { grid-column: 2; }
 .history-columns .education-list strong, .history-columns .experience-list strong { line-height: 1.5; }
 .history-columns .degree, .history-columns .experience-list span { line-height: 1.6; }
+@media screen and (min-width:761px) {
+  .experience-column { display: flex; flex-direction: column; min-height: 0; }
+  .experience-column h2 { flex: none; }
+  .experience-column .experience-list { height: 0; min-height: 0; flex: 1 1 0px; contain: size; margin-top: 0; overflow-y: auto; scrollbar-width: thin; scrollbar-color: #b4c7d5 transparent; padding-right: 8px; }
+}
+.experience-list:focus-visible { outline: 2px solid var(--blue); outline-offset: 4px; border-radius: 4px; }
 @media(max-width:760px) { .history-columns { grid-template-columns: 1fr; gap: 28px; } }
 .section-navigation { position: fixed; left: calc(50% + 462px); top: 160px; display: flex; flex-direction: column; gap: 4px; border-left: 1px solid #d9e4ec; padding-left: 10px; z-index: 5; }
 .section-navigation a { padding: 7px 12px; font-size: 14px; color: var(--muted); border-radius: 5px; }
