@@ -11,7 +11,7 @@ redirect_from:
 
 Hi, this is Xiaojie Xu(徐啸捷). I am a Ph.D. student at [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html).
 
-Previously, I received my M.Phil. and B.Eng. degrees from [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) and [University of Science and Technology of China](https://www.ustc.edu.cn/), respectively.
+Previously, I received my M.Phil. and B.Eng. degrees from [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST) and [University of Science and Technology of China](https://www.ustc.edu.cn/) (USTC), respectively.
 
 I also did research with [Alaya Lab Tokyo](https://alayalab.ai/), [Tencent AI Lab](https://www.aiia-ai.org/h-col-184.html), [NTU MMLab](https://www.mmlab-ntu.com/) and [Tsinghua IIIS](https://iiis.tsinghua.edu.cn/en/).
 
